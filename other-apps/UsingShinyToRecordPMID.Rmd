@@ -1,0 +1,86 @@
+---
+title: "Using Shiny To Record PMID"
+output: html_notebook
+---
+
+
+```{r}
+library("tidyverse")
+library("googledrive")
+```
+
+
+```{r}
+JournalWatchPMIDFile <- googledrive::drive_get(as_id("19Y8jLmw7h-QrVBPskr86QqyozQl9zA3wyq_Umuyft7c"))
+```
+
+```{r}
+drive_ls(  "i/am/a/folder/", type = "spreadsheet")
+```
+
+
+
+- Shiny Database App (CRUD)
+
+https://ipub.com/shiny-crud-app/
+
+- Persistent data storage in Shiny apps
+
+https://deanattali.com/blog/shiny-persistent-data-storage/
+
+- Mimicking a Google Form with a Shiny app
+
+https://deanattali.com/2015/06/14/mimicking-google-form-shiny/
+
+https://daattali.com/shiny/
+
+
+
+- Creating Interactive data visualization using Shiny App in R (with examples)
+
+https://www.analyticsvidhya.com/blog/2016/10/creating-interactive-data-visualization-using-shiny-app-in-r-with-examples/
+
+- googledrive
+
+https://googledrive.tidyverse.org/
+
+
+- Google Spreadsheets R API
+
+https://github.com/jennybc/googlesheets
+
+- How to Use googlesheets to Connect R to Google Sheets
+
+https://datascienceplus.com/how-to-use-googlesheets-to-connect-r-to-google-sheets/
+
+
+
+https://github.com/sbalci/shiny-music-player
+
+
+https://shiny.rstudio.com/articles/persistent-data-storage.html
+
+https://shiny.rstudio.com/articles/persistent-data-storage.html#gsheets
+
+
+https://cran.r-project.org/web/packages/googlesheets/vignettes/basic-usage.html
+
+https://www.r-bloggers.com/how-to-use-googlesheets-to-connect-r-to-google-sheets/
+
+
+https://www.linkedin.com/pulse/update-google-sheets-via-r-automatically-tanya-cashorali
+
+https://github.com/jennybc/googlesheets/tree/master/inst/shiny-examples
+
+https://towardsdatascience.com/build-an-internet-of-things-dashboard-with-google-sheets-and-rstudio-shiny-tutorial-part-1-3-1be8c155a7
+
+
+
+- https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+
+- Mimicking a Google Form with a Shiny app
+
+https://deanattali.com/2015/06/14/mimicking-google-form-shiny/
+
+

@@ -1,0 +1,4024 @@
+"PMID","Feature","Present"
+"30007990","Pancreas",TRUE
+"30007990","Ampulla",FALSE
+"30007990","BileDuct",FALSE
+"30007990","Gallbladder",FALSE
+"30007990","Neuroendocrine",FALSE
+"30007990","Morphology",TRUE
+"30007990","IHC",FALSE
+"30007990","Molecular",FALSE
+"30007990","Cytology",FALSE
+"30007990","Staging",TRUE
+"30007990","Preneoplastic",FALSE
+"30007990","Microenvironment",FALSE
+"30007990","SPN",FALSE
+"30007990","AnalogueTumors",FALSE
+"30007990","Pancreattis",FALSE
+"30007990","Benign",FALSE
+"30007990","ExperimentalAnimal",FALSE
+"30007990","TechniquesMethods",FALSE
+"30007990","Epidemiology",FALSE
+"30007990","Screening",FALSE
+"30007990","RiskFactors",FALSE
+"30007990","SEER",FALSE
+"30007990","Oncomine",FALSE
+"30007990","TCGA",FALSE
+"30007990","CaseReport",FALSE
+"30007990","CaseSeries",FALSE
+"30629030","Pancreas",TRUE
+"30629030","Ampulla",FALSE
+"30629030","BileDuct",FALSE
+"30629030","Gallbladder",FALSE
+"30629030","Neuroendocrine",FALSE
+"30629030","Morphology",FALSE
+"30629030","IHC",FALSE
+"30629030","Molecular",FALSE
+"30629030","Cytology",FALSE
+"30629030","Staging",FALSE
+"30629030","Preneoplastic",FALSE
+"30629030","Microenvironment",TRUE
+"30629030","SPN",FALSE
+"30629030","AnalogueTumors",FALSE
+"30629030","Pancreattis",FALSE
+"30629030","Benign",FALSE
+"30629030","ExperimentalAnimal",FALSE
+"30629030","TechniquesMethods",FALSE
+"30629030","Epidemiology",FALSE
+"30629030","Screening",FALSE
+"30629030","RiskFactors",FALSE
+"30629030","SEER",FALSE
+"30629030","Oncomine",FALSE
+"30629030","TCGA",FALSE
+"30629030","CaseReport",FALSE
+"30629030","CaseSeries",FALSE
+"31002791","Pancreas",TRUE
+"31002791","Ampulla",FALSE
+"31002791","BileDuct",FALSE
+"31002791","Gallbladder",FALSE
+"31002791","Neuroendocrine",FALSE
+"31002791","Morphology",FALSE
+"31002791","IHC",FALSE
+"31002791","Molecular",TRUE
+"31002791","Cytology",FALSE
+"31002791","Staging",FALSE
+"31002791","Preneoplastic",FALSE
+"31002791","Microenvironment",FALSE
+"31002791","SPN",FALSE
+"31002791","AnalogueTumors",FALSE
+"31002791","Pancreattis",FALSE
+"31002791","Benign",FALSE
+"31002791","ExperimentalAnimal",FALSE
+"31002791","TechniquesMethods",FALSE
+"31002791","Epidemiology",FALSE
+"31002791","Screening",FALSE
+"31002791","RiskFactors",FALSE
+"31002791","SEER",FALSE
+"31002791","Oncomine",FALSE
+"31002791","TCGA",FALSE
+"31002791","CaseReport",FALSE
+"31002791","CaseSeries",FALSE
+"30999719","Pancreas",TRUE
+"30999719","Ampulla",FALSE
+"30999719","BileDuct",FALSE
+"30999719","Gallbladder",FALSE
+"30999719","Neuroendocrine",TRUE
+"30999719","Morphology",FALSE
+"30999719","IHC",FALSE
+"30999719","Molecular",FALSE
+"30999719","Cytology",FALSE
+"30999719","Staging",TRUE
+"30999719","Preneoplastic",FALSE
+"30999719","Microenvironment",FALSE
+"30999719","SPN",FALSE
+"30999719","AnalogueTumors",FALSE
+"30999719","Pancreattis",FALSE
+"30999719","Benign",FALSE
+"30999719","ExperimentalAnimal",FALSE
+"30999719","TechniquesMethods",FALSE
+"30999719","Epidemiology",FALSE
+"30999719","Screening",FALSE
+"30999719","RiskFactors",FALSE
+"30999719","SEER",FALSE
+"30999719","Oncomine",FALSE
+"30999719","TCGA",FALSE
+"30999719","CaseReport",FALSE
+"30999719","CaseSeries",FALSE
+"30986801","Pancreas",TRUE
+"30986801","Ampulla",FALSE
+"30986801","BileDuct",FALSE
+"30986801","Gallbladder",FALSE
+"30986801","Neuroendocrine",FALSE
+"30986801","Morphology",TRUE
+"30986801","IHC",FALSE
+"30986801","Molecular",FALSE
+"30986801","Cytology",FALSE
+"30986801","Staging",FALSE
+"30986801","Preneoplastic",TRUE
+"30986801","Microenvironment",FALSE
+"30986801","SPN",FALSE
+"30986801","AnalogueTumors",FALSE
+"30986801","Pancreattis",FALSE
+"30986801","Benign",FALSE
+"30986801","ExperimentalAnimal",FALSE
+"30986801","TechniquesMethods",FALSE
+"30986801","Epidemiology",FALSE
+"30986801","Screening",FALSE
+"30986801","RiskFactors",FALSE
+"30986801","SEER",FALSE
+"30986801","Oncomine",FALSE
+"30986801","TCGA",FALSE
+"30986801","CaseReport",FALSE
+"30986801","CaseSeries",FALSE
+"30986801","Review",FALSE
+"30986801","IOPN",TRUE
+"30986801","IPMN",FALSE
+"30001234","Pancreas",FALSE
+"30001234","Ampulla",FALSE
+"30001234","BileDuct",TRUE
+"30001234","Gallbladder",FALSE
+"30001234","Neuroendocrine",FALSE
+"30001234","Morphology",TRUE
+"30001234","IHC",TRUE
+"30001234","Molecular",FALSE
+"30001234","Cytology",FALSE
+"30001234","Staging",FALSE
+"30001234","Preneoplastic",FALSE
+"30001234","Microenvironment",FALSE
+"30001234","SPN",FALSE
+"30001234","AnalogueTumors",FALSE
+"30001234","Pancreattis",FALSE
+"30001234","Benign",FALSE
+"30001234","ExperimentalAnimal",FALSE
+"30001234","TechniquesMethods",FALSE
+"30001234","Epidemiology",FALSE
+"30001234","Screening",FALSE
+"30001234","RiskFactors",FALSE
+"30001234","SEER",FALSE
+"30001234","Oncomine",FALSE
+"30001234","TCGA",FALSE
+"30001234","CaseReport",FALSE
+"30001234","CaseSeries",FALSE
+"30001234","Review",FALSE
+"30001234","IOPN",FALSE
+"30001234","IPMN",FALSE
+"30996350","Pancreas",TRUE
+"30996350","Ampulla",FALSE
+"30996350","BileDuct",FALSE
+"30996350","Gallbladder",FALSE
+"30996350","Neuroendocrine",FALSE
+"30996350","Morphology",FALSE
+"30996350","IHC",FALSE
+"30996350","Molecular",TRUE
+"30996350","Cytology",FALSE
+"30996350","Staging",FALSE
+"30996350","Preneoplastic",FALSE
+"30996350","Microenvironment",FALSE
+"30996350","SPN",FALSE
+"30996350","AnalogueTumors",FALSE
+"30996350","Pancreattis",FALSE
+"30996350","Benign",FALSE
+"30996350","ExperimentalAnimal",TRUE
+"30996350","TechniquesMethods",FALSE
+"30996350","Epidemiology",FALSE
+"30996350","Screening",FALSE
+"30996350","RiskFactors",FALSE
+"30996350","SEER",FALSE
+"30996350","Oncomine",FALSE
+"30996350","TCGA",FALSE
+"30996350","CaseReport",FALSE
+"30996350","CaseSeries",FALSE
+"30996350","Review",FALSE
+"30996350","IOPN",FALSE
+"30996350","IPMN",FALSE
+"30171511","Pancreas",TRUE
+"30171511","Ampulla",FALSE
+"30171511","BileDuct",FALSE
+"30171511","Gallbladder",FALSE
+"30171511","Neuroendocrine",FALSE
+"30171511","Morphology",FALSE
+"30171511","IHC",FALSE
+"30171511","Molecular",FALSE
+"30171511","Cytology",FALSE
+"30171511","Staging",FALSE
+"30171511","Preneoplastic",FALSE
+"30171511","Microenvironment",TRUE
+"30171511","SPN",FALSE
+"30171511","AnalogueTumors",FALSE
+"30171511","Pancreattis",FALSE
+"30171511","Benign",FALSE
+"30171511","ExperimentalAnimal",FALSE
+"30171511","TechniquesMethods",FALSE
+"30171511","Epidemiology",FALSE
+"30171511","Screening",FALSE
+"30171511","RiskFactors",FALSE
+"30171511","SEER",FALSE
+"30171511","Oncomine",FALSE
+"30171511","TCGA",FALSE
+"30171511","CaseReport",FALSE
+"30171511","CaseSeries",FALSE
+"30171511","Review",FALSE
+"30171511","IOPN",FALSE
+"30171511","IPMN",FALSE
+"30298331","Pancreas",TRUE
+"30298331","Ampulla",FALSE
+"30298331","BileDuct",FALSE
+"30298331","Gallbladder",FALSE
+"30298331","Neuroendocrine",FALSE
+"30298331","Morphology",FALSE
+"30298331","IHC",FALSE
+"30298331","Molecular",FALSE
+"30298331","Cytology",FALSE
+"30298331","Staging",TRUE
+"30298331","Preneoplastic",FALSE
+"30298331","Microenvironment",FALSE
+"30298331","SPN",FALSE
+"30298331","AnalogueTumors",FALSE
+"30298331","Pancreattis",FALSE
+"30298331","Benign",FALSE
+"30298331","ExperimentalAnimal",FALSE
+"30298331","TechniquesMethods",FALSE
+"30298331","Epidemiology",FALSE
+"30298331","Screening",FALSE
+"30298331","RiskFactors",FALSE
+"30298331","SEER",FALSE
+"30298331","Oncomine",FALSE
+"30298331","TCGA",FALSE
+"30298331","CaseReport",FALSE
+"30298331","CaseSeries",FALSE
+"30298331","Review",FALSE
+"30298331","IOPN",FALSE
+"30298331","IPMN",FALSE
+"31004295","Pancreas",TRUE
+"31004295","Ampulla",FALSE
+"31004295","BileDuct",FALSE
+"31004295","Gallbladder",FALSE
+"31004295","Neuroendocrine",TRUE
+"31004295","Morphology",FALSE
+"31004295","IHC",FALSE
+"31004295","Molecular",FALSE
+"31004295","Cytology",FALSE
+"31004295","Staging",TRUE
+"31004295","Preneoplastic",FALSE
+"31004295","Microenvironment",FALSE
+"31004295","SPN",FALSE
+"31004295","AnalogueTumors",FALSE
+"31004295","Pancreattis",FALSE
+"31004295","Benign",FALSE
+"31004295","ExperimentalAnimal",FALSE
+"31004295","TechniquesMethods",FALSE
+"31004295","Epidemiology",FALSE
+"31004295","Screening",FALSE
+"31004295","RiskFactors",FALSE
+"31004295","SEER",FALSE
+"31004295","Oncomine",FALSE
+"31004295","TCGA",FALSE
+"31004295","CaseReport",FALSE
+"31004295","CaseSeries",FALSE
+"31004295","Review",FALSE
+"31004295","IOPN",FALSE
+"31004295","IPMN",FALSE
+"31005883","Pancreas",TRUE
+"31005883","Ampulla",FALSE
+"31005883","BileDuct",FALSE
+"31005883","Gallbladder",FALSE
+"31005883","Neuroendocrine",FALSE
+"31005883","Morphology",FALSE
+"31005883","IHC",FALSE
+"31005883","Molecular",TRUE
+"31005883","Cytology",FALSE
+"31005883","Staging",FALSE
+"31005883","Preneoplastic",FALSE
+"31005883","Microenvironment",FALSE
+"31005883","SPN",FALSE
+"31005883","AnalogueTumors",FALSE
+"31005883","Pancreattis",TRUE
+"31005883","Benign",FALSE
+"31005883","ExperimentalAnimal",FALSE
+"31005883","TechniquesMethods",FALSE
+"31005883","Epidemiology",FALSE
+"31005883","Screening",FALSE
+"31005883","RiskFactors",FALSE
+"31005883","SEER",FALSE
+"31005883","Oncomine",FALSE
+"31005883","TCGA",FALSE
+"31005883","CaseReport",FALSE
+"31005883","CaseSeries",FALSE
+"31005883","Review",FALSE
+"31005883","IOPN",FALSE
+"31005883","IPMN",FALSE
+"31011904","Pancreas",TRUE
+"31011904","Ampulla",FALSE
+"31011904","BileDuct",FALSE
+"31011904","Gallbladder",FALSE
+"31011904","Neuroendocrine",TRUE
+"31011904","Morphology",FALSE
+"31011904","IHC",FALSE
+"31011904","Molecular",TRUE
+"31011904","Cytology",FALSE
+"31011904","Staging",FALSE
+"31011904","Preneoplastic",FALSE
+"31011904","Microenvironment",FALSE
+"31011904","SPN",FALSE
+"31011904","AnalogueTumors",FALSE
+"31011904","Pancreattis",FALSE
+"31011904","Benign",FALSE
+"31011904","ExperimentalAnimal",FALSE
+"31011904","TechniquesMethods",FALSE
+"31011904","Epidemiology",FALSE
+"31011904","Screening",FALSE
+"31011904","RiskFactors",FALSE
+"31011904","SEER",FALSE
+"31011904","Oncomine",FALSE
+"31011904","TCGA",FALSE
+"31011904","CaseReport",FALSE
+"31011904","CaseSeries",FALSE
+"31011904","Review",FALSE
+"31011904","IOPN",FALSE
+"31011904","IPMN",FALSE
+"30985643","Pancreas",FALSE
+"30985643","Ampulla",FALSE
+"30985643","BileDuct",TRUE
+"30985643","Gallbladder",FALSE
+"30985643","Neuroendocrine",FALSE
+"30985643","Morphology",FALSE
+"30985643","IHC",FALSE
+"30985643","Molecular",FALSE
+"30985643","Cytology",FALSE
+"30985643","Staging",TRUE
+"30985643","Preneoplastic",FALSE
+"30985643","Microenvironment",FALSE
+"30985643","SPN",FALSE
+"30985643","AnalogueTumors",FALSE
+"30985643","Pancreattis",FALSE
+"30985643","Benign",FALSE
+"30985643","ExperimentalAnimal",FALSE
+"30985643","TechniquesMethods",FALSE
+"30985643","Epidemiology",TRUE
+"30985643","Screening",FALSE
+"30985643","RiskFactors",FALSE
+"30985643","SEER",TRUE
+"30985643","Oncomine",FALSE
+"30985643","TCGA",FALSE
+"30985643","CaseReport",FALSE
+"30985643","CaseSeries",FALSE
+"30985643","Review",FALSE
+"30985643","IOPN",FALSE
+"30985643","IPMN",FALSE
+"30863807","Pancreas",TRUE
+"30863807","Ampulla",FALSE
+"30863807","BileDuct",FALSE
+"30863807","Gallbladder",FALSE
+"30863807","Neuroendocrine",FALSE
+"30863807","Morphology",FALSE
+"30863807","IHC",FALSE
+"30863807","Molecular",FALSE
+"30863807","Cytology",FALSE
+"30863807","Staging",TRUE
+"30863807","Preneoplastic",FALSE
+"30863807","Microenvironment",FALSE
+"30863807","SPN",FALSE
+"30863807","AnalogueTumors",FALSE
+"30863807","Pancreattis",FALSE
+"30863807","Benign",FALSE
+"30863807","ExperimentalAnimal",FALSE
+"30863807","TechniquesMethods",FALSE
+"30863807","Epidemiology",FALSE
+"30863807","Screening",FALSE
+"30863807","RiskFactors",FALSE
+"30863807","SEER",FALSE
+"30863807","Oncomine",FALSE
+"30863807","TCGA",FALSE
+"30863807","CaseReport",FALSE
+"30863807","CaseSeries",FALSE
+"30863807","Review",FALSE
+"30863807","IOPN",FALSE
+"30863807","IPMN",FALSE
+"30902419","Pancreas",TRUE
+"30902419","Ampulla",FALSE
+"30902419","BileDuct",FALSE
+"30902419","Gallbladder",FALSE
+"30902419","Neuroendocrine",FALSE
+"30902419","Morphology",FALSE
+"30902419","IHC",FALSE
+"30902419","Molecular",FALSE
+"30902419","Cytology",FALSE
+"30902419","Staging",TRUE
+"30902419","Preneoplastic",FALSE
+"30902419","Microenvironment",FALSE
+"30902419","SPN",FALSE
+"30902419","AnalogueTumors",FALSE
+"30902419","Pancreattis",FALSE
+"30902419","Benign",FALSE
+"30902419","ExperimentalAnimal",FALSE
+"30902419","TechniquesMethods",FALSE
+"30902419","Epidemiology",FALSE
+"30902419","Screening",FALSE
+"30902419","RiskFactors",FALSE
+"30902419","SEER",FALSE
+"30902419","Oncomine",FALSE
+"30902419","TCGA",FALSE
+"30902419","CaseReport",FALSE
+"30902419","CaseSeries",FALSE
+"30902419","Review",FALSE
+"30902419","IOPN",FALSE
+"30902419","IPMN",FALSE
+"30902419","AJCCTNM",TRUE
+"30872392","Pancreas",TRUE
+"30872392","Ampulla",FALSE
+"30872392","BileDuct",FALSE
+"30872392","Gallbladder",FALSE
+"30872392","Neuroendocrine",FALSE
+"30872392","Morphology",TRUE
+"30872392","IHC",TRUE
+"30872392","Molecular",FALSE
+"30872392","Cytology",FALSE
+"30872392","Staging",FALSE
+"30872392","Preneoplastic",FALSE
+"30872392","Microenvironment",TRUE
+"30872392","SPN",FALSE
+"30872392","AnalogueTumors",FALSE
+"30872392","Pancreattis",FALSE
+"30872392","Benign",FALSE
+"30872392","ExperimentalAnimal",FALSE
+"30872392","TechniquesMethods",TRUE
+"30872392","Epidemiology",FALSE
+"30872392","Screening",FALSE
+"30872392","RiskFactors",FALSE
+"30872392","SEER",FALSE
+"30872392","Oncomine",FALSE
+"30872392","TCGA",FALSE
+"30872392","CaseReport",FALSE
+"30872392","CaseSeries",FALSE
+"30872392","Review",FALSE
+"30872392","IOPN",FALSE
+"30872392","IPMN",FALSE
+"30872392","AJCCTNM",FALSE
+"30845855","Pancreas",TRUE
+"30845855","Ampulla",FALSE
+"30845855","BileDuct",FALSE
+"30845855","Gallbladder",FALSE
+"30845855","Neuroendocrine",FALSE
+"30845855","Morphology",TRUE
+"30845855","IHC",FALSE
+"30845855","Molecular",FALSE
+"30845855","Cytology",FALSE
+"30845855","Staging",FALSE
+"30845855","Preneoplastic",FALSE
+"30845855","Microenvironment",FALSE
+"30845855","SPN",TRUE
+"30845855","AnalogueTumors",FALSE
+"30845855","Pancreattis",FALSE
+"30845855","Benign",FALSE
+"30845855","ExperimentalAnimal",FALSE
+"30845855","TechniquesMethods",FALSE
+"30845855","Epidemiology",FALSE
+"30845855","Screening",FALSE
+"30845855","RiskFactors",FALSE
+"30845855","SEER",FALSE
+"30845855","Oncomine",FALSE
+"30845855","TCGA",FALSE
+"30845855","CaseReport",FALSE
+"30845855","CaseSeries",FALSE
+"30845855","Review",FALSE
+"30845855","IOPN",FALSE
+"30845855","IPMN",FALSE
+"30845855","AJCCTNM",FALSE
+"30714146","Pancreas",TRUE
+"30714146","Ampulla",FALSE
+"30714146","BileDuct",FALSE
+"30714146","Gallbladder",FALSE
+"30714146","Neuroendocrine",FALSE
+"30714146","Morphology",TRUE
+"30714146","IHC",FALSE
+"30714146","Molecular",FALSE
+"30714146","Cytology",FALSE
+"30714146","Staging",FALSE
+"30714146","Preneoplastic",FALSE
+"30714146","Microenvironment",FALSE
+"30714146","SPN",FALSE
+"30714146","AnalogueTumors",FALSE
+"30714146","Pancreattis",TRUE
+"30714146","Benign",FALSE
+"30714146","ExperimentalAnimal",FALSE
+"30714146","TechniquesMethods",FALSE
+"30714146","Epidemiology",FALSE
+"30714146","Screening",FALSE
+"30714146","RiskFactors",FALSE
+"30714146","SEER",FALSE
+"30714146","Oncomine",FALSE
+"30714146","TCGA",FALSE
+"30714146","CaseReport",FALSE
+"30714146","CaseSeries",FALSE
+"30714146","Review",FALSE
+"30714146","IOPN",FALSE
+"30714146","IPMN",FALSE
+"30714146","AJCCTNM",FALSE
+"30843106","Pancreas",TRUE
+"30843106","Ampulla",FALSE
+"30843106","BileDuct",FALSE
+"30843106","Gallbladder",FALSE
+"30843106","Neuroendocrine",FALSE
+"30843106","Morphology",TRUE
+"30843106","IHC",TRUE
+"30843106","Molecular",FALSE
+"30843106","Cytology",FALSE
+"30843106","Staging",FALSE
+"30843106","Preneoplastic",FALSE
+"30843106","Microenvironment",TRUE
+"30843106","SPN",FALSE
+"30843106","AnalogueTumors",FALSE
+"30843106","Pancreattis",FALSE
+"30843106","Benign",FALSE
+"30843106","ExperimentalAnimal",FALSE
+"30843106","TechniquesMethods",TRUE
+"30843106","Epidemiology",FALSE
+"30843106","Screening",FALSE
+"30843106","RiskFactors",FALSE
+"30843106","SEER",FALSE
+"30843106","Oncomine",FALSE
+"30843106","TCGA",FALSE
+"30843106","CaseReport",FALSE
+"30843106","CaseSeries",FALSE
+"30843106","Review",FALSE
+"30843106","IOPN",FALSE
+"30843106","IPMN",FALSE
+"30843106","AJCCTNM",FALSE
+"30721663","Pancreas",TRUE
+"30721663","Ampulla",FALSE
+"30721663","BileDuct",FALSE
+"30721663","Gallbladder",FALSE
+"30721663","Neuroendocrine",FALSE
+"30721663","Morphology",FALSE
+"30721663","IHC",FALSE
+"30721663","Molecular",FALSE
+"30721663","Cytology",FALSE
+"30721663","Staging",FALSE
+"30721663","Preneoplastic",FALSE
+"30721663","Microenvironment",TRUE
+"30721663","SPN",FALSE
+"30721663","AnalogueTumors",FALSE
+"30721663","Pancreattis",FALSE
+"30721663","Benign",FALSE
+"30721663","ExperimentalAnimal",FALSE
+"30721663","TechniquesMethods",FALSE
+"30721663","Epidemiology",FALSE
+"30721663","Screening",FALSE
+"30721663","RiskFactors",FALSE
+"30721663","SEER",FALSE
+"30721663","Oncomine",FALSE
+"30721663","TCGA",FALSE
+"30721663","CaseReport",FALSE
+"30721663","CaseSeries",FALSE
+"30721663","Review",FALSE
+"30721663","IOPN",FALSE
+"30721663","IPMN",FALSE
+"30721663","AJCCTNM",FALSE
+"30729623","Pancreas",FALSE
+"30729623","Ampulla",FALSE
+"30729623","BileDuct",TRUE
+"30729623","Gallbladder",FALSE
+"30729623","Neuroendocrine",FALSE
+"30729623","Morphology",FALSE
+"30729623","IHC",TRUE
+"30729623","Molecular",FALSE
+"30729623","Cytology",FALSE
+"30729623","Staging",FALSE
+"30729623","Preneoplastic",FALSE
+"30729623","Microenvironment",FALSE
+"30729623","SPN",FALSE
+"30729623","AnalogueTumors",FALSE
+"30729623","Pancreattis",FALSE
+"30729623","Benign",FALSE
+"30729623","ExperimentalAnimal",FALSE
+"30729623","TechniquesMethods",FALSE
+"30729623","Epidemiology",FALSE
+"30729623","Screening",FALSE
+"30729623","RiskFactors",FALSE
+"30729623","SEER",FALSE
+"30729623","Oncomine",FALSE
+"30729623","TCGA",FALSE
+"30729623","CaseReport",FALSE
+"30729623","CaseSeries",FALSE
+"30729623","Review",FALSE
+"30729623","IOPN",FALSE
+"30729623","IPMN",FALSE
+"30729623","AJCCTNM",FALSE
+"30864246","Pancreas",FALSE
+"30864246","Ampulla",FALSE
+"30864246","BileDuct",FALSE
+"30864246","Gallbladder",TRUE
+"30864246","Neuroendocrine",FALSE
+"30864246","Morphology",FALSE
+"30864246","IHC",FALSE
+"30864246","Molecular",FALSE
+"30864246","Cytology",FALSE
+"30864246","Staging",TRUE
+"30864246","Preneoplastic",FALSE
+"30864246","Microenvironment",FALSE
+"30864246","SPN",FALSE
+"30864246","AnalogueTumors",FALSE
+"30864246","Pancreattis",FALSE
+"30864246","Benign",FALSE
+"30864246","ExperimentalAnimal",FALSE
+"30864246","TechniquesMethods",FALSE
+"30864246","Epidemiology",TRUE
+"30864246","Screening",FALSE
+"30864246","RiskFactors",FALSE
+"30864246","SEER",TRUE
+"30864246","Oncomine",FALSE
+"30864246","TCGA",FALSE
+"30864246","CaseReport",FALSE
+"30864246","CaseSeries",FALSE
+"30864246","Review",FALSE
+"30864246","IOPN",FALSE
+"30864246","IPMN",FALSE
+"30864246","AJCCTNM",TRUE
+"30548547","Pancreas",FALSE
+"30548547","Ampulla",TRUE
+"30548547","BileDuct",FALSE
+"30548547","Gallbladder",FALSE
+"30548547","Neuroendocrine",FALSE
+"30548547","Morphology",TRUE
+"30548547","IHC",TRUE
+"30548547","Molecular",FALSE
+"30548547","Cytology",FALSE
+"30548547","Staging",FALSE
+"30548547","Preneoplastic",FALSE
+"30548547","Microenvironment",FALSE
+"30548547","SPN",FALSE
+"30548547","AnalogueTumors",FALSE
+"30548547","Pancreattis",FALSE
+"30548547","Benign",FALSE
+"30548547","ExperimentalAnimal",FALSE
+"30548547","TechniquesMethods",FALSE
+"30548547","Epidemiology",FALSE
+"30548547","Screening",FALSE
+"30548547","RiskFactors",FALSE
+"30548547","SEER",FALSE
+"30548547","Oncomine",FALSE
+"30548547","TCGA",FALSE
+"30548547","CaseReport",FALSE
+"30548547","CaseSeries",FALSE
+"30548547","Review",FALSE
+"30548547","IOPN",FALSE
+"30548547","IPMN",FALSE
+"30548547","AJCCTNM",FALSE
+"30713128","Pancreas",FALSE
+"30713128","Ampulla",TRUE
+"30713128","BileDuct",FALSE
+"30713128","Gallbladder",FALSE
+"30713128","Neuroendocrine",FALSE
+"30713128","Morphology",TRUE
+"30713128","IHC",TRUE
+"30713128","Molecular",FALSE
+"30713128","Cytology",FALSE
+"30713128","Staging",FALSE
+"30713128","Preneoplastic",FALSE
+"30713128","Microenvironment",FALSE
+"30713128","SPN",FALSE
+"30713128","AnalogueTumors",FALSE
+"30713128","Pancreattis",FALSE
+"30713128","Benign",FALSE
+"30713128","ExperimentalAnimal",FALSE
+"30713128","TechniquesMethods",FALSE
+"30713128","Epidemiology",FALSE
+"30713128","Screening",FALSE
+"30713128","RiskFactors",FALSE
+"30713128","SEER",FALSE
+"30713128","Oncomine",FALSE
+"30713128","TCGA",FALSE
+"30713128","CaseReport",FALSE
+"30713128","CaseSeries",FALSE
+"30713128","Review",FALSE
+"30713128","IOPN",FALSE
+"30713128","IPMN",FALSE
+"30713128","AJCCTNM",FALSE
+"30837681","Pancreas",FALSE
+"30837681","Ampulla",TRUE
+"30837681","BileDuct",FALSE
+"30837681","Gallbladder",FALSE
+"30837681","Neuroendocrine",FALSE
+"30837681","Morphology",TRUE
+"30837681","IHC",TRUE
+"30837681","Molecular",FALSE
+"30837681","Cytology",FALSE
+"30837681","Staging",FALSE
+"30837681","Preneoplastic",FALSE
+"30837681","Microenvironment",FALSE
+"30837681","SPN",FALSE
+"30837681","AnalogueTumors",FALSE
+"30837681","Pancreattis",FALSE
+"30837681","Benign",FALSE
+"30837681","ExperimentalAnimal",FALSE
+"30837681","TechniquesMethods",FALSE
+"30837681","Epidemiology",FALSE
+"30837681","Screening",FALSE
+"30837681","RiskFactors",FALSE
+"30837681","SEER",FALSE
+"30837681","Oncomine",FALSE
+"30837681","TCGA",FALSE
+"30837681","CaseReport",FALSE
+"30837681","CaseSeries",FALSE
+"30837681","Review",FALSE
+"30837681","IOPN",FALSE
+"30837681","IPMN",FALSE
+"30837681","AJCCTNM",FALSE
+"30790111","Pancreas",FALSE
+"30790111","Ampulla",TRUE
+"30790111","BileDuct",FALSE
+"30790111","Gallbladder",FALSE
+"30790111","Neuroendocrine",FALSE
+"30790111","Morphology",FALSE
+"30790111","IHC",FALSE
+"30790111","Molecular",FALSE
+"30790111","Cytology",FALSE
+"30790111","Staging",TRUE
+"30790111","Preneoplastic",FALSE
+"30790111","Microenvironment",FALSE
+"30790111","SPN",FALSE
+"30790111","AnalogueTumors",FALSE
+"30790111","Pancreattis",FALSE
+"30790111","Benign",FALSE
+"30790111","ExperimentalAnimal",FALSE
+"30790111","TechniquesMethods",FALSE
+"30790111","Epidemiology",FALSE
+"30790111","Screening",FALSE
+"30790111","RiskFactors",FALSE
+"30790111","SEER",FALSE
+"30790111","Oncomine",FALSE
+"30790111","TCGA",FALSE
+"30790111","CaseReport",FALSE
+"30790111","CaseSeries",FALSE
+"30790111","Review",FALSE
+"30790111","IOPN",FALSE
+"30790111","IPMN",FALSE
+"30790111","AJCCTNM",TRUE
+"30788628","Pancreas",FALSE
+"30788628","Ampulla",TRUE
+"30788628","BileDuct",FALSE
+"30788628","Gallbladder",FALSE
+"30788628","Neuroendocrine",FALSE
+"30788628","Morphology",FALSE
+"30788628","IHC",FALSE
+"30788628","Molecular",FALSE
+"30788628","Cytology",FALSE
+"30788628","Staging",TRUE
+"30788628","Preneoplastic",FALSE
+"30788628","Microenvironment",FALSE
+"30788628","SPN",FALSE
+"30788628","AnalogueTumors",FALSE
+"30788628","Pancreattis",FALSE
+"30788628","Benign",FALSE
+"30788628","ExperimentalAnimal",FALSE
+"30788628","TechniquesMethods",FALSE
+"30788628","Epidemiology",FALSE
+"30788628","Screening",FALSE
+"30788628","RiskFactors",FALSE
+"30788628","SEER",FALSE
+"30788628","Oncomine",FALSE
+"30788628","TCGA",FALSE
+"30788628","CaseReport",FALSE
+"30788628","CaseSeries",FALSE
+"30788628","Review",FALSE
+"30788628","IOPN",FALSE
+"30788628","IPMN",FALSE
+"30788628","AJCCTNM",TRUE
+"30704851","Pancreas",TRUE
+"30704851","Ampulla",FALSE
+"30704851","BileDuct",FALSE
+"30704851","Gallbladder",FALSE
+"30704851","Neuroendocrine",TRUE
+"30704851","Morphology",TRUE
+"30704851","IHC",FALSE
+"30704851","Molecular",FALSE
+"30704851","Cytology",FALSE
+"30704851","Staging",FALSE
+"30704851","Preneoplastic",FALSE
+"30704851","Microenvironment",FALSE
+"30704851","SPN",FALSE
+"30704851","AnalogueTumors",FALSE
+"30704851","Pancreattis",FALSE
+"30704851","Benign",FALSE
+"30704851","ExperimentalAnimal",FALSE
+"30704851","TechniquesMethods",FALSE
+"30704851","Epidemiology",FALSE
+"30704851","Screening",FALSE
+"30704851","RiskFactors",FALSE
+"30704851","SEER",FALSE
+"30704851","Oncomine",FALSE
+"30704851","TCGA",FALSE
+"30704851","CaseReport",FALSE
+"30704851","CaseSeries",FALSE
+"30704851","Review",FALSE
+"30704851","IOPN",FALSE
+"30704851","IPMN",FALSE
+"30704851","AJCCTNM",FALSE
+"30850220","Pancreas",TRUE
+"30850220","Ampulla",FALSE
+"30850220","BileDuct",FALSE
+"30850220","Gallbladder",FALSE
+"30850220","Neuroendocrine",TRUE
+"30850220","Morphology",TRUE
+"30850220","IHC",FALSE
+"30850220","Molecular",FALSE
+"30850220","Cytology",FALSE
+"30850220","Staging",FALSE
+"30850220","Preneoplastic",FALSE
+"30850220","Microenvironment",FALSE
+"30850220","SPN",FALSE
+"30850220","AnalogueTumors",FALSE
+"30850220","Pancreattis",FALSE
+"30850220","Benign",FALSE
+"30850220","ExperimentalAnimal",FALSE
+"30850220","TechniquesMethods",FALSE
+"30850220","Epidemiology",FALSE
+"30850220","Screening",FALSE
+"30850220","RiskFactors",FALSE
+"30850220","SEER",TRUE
+"30850220","Oncomine",FALSE
+"30850220","TCGA",FALSE
+"30850220","CaseReport",FALSE
+"30850220","CaseSeries",FALSE
+"30850220","Review",FALSE
+"30850220","IOPN",FALSE
+"30850220","IPMN",FALSE
+"30850220","AJCCTNM",FALSE
+"30913089","Pancreas",FALSE
+"30913089","Ampulla",TRUE
+"30913089","BileDuct",FALSE
+"30913089","Gallbladder",FALSE
+"30913089","Neuroendocrine",TRUE
+"30913089","Morphology",TRUE
+"30913089","IHC",FALSE
+"30913089","Molecular",FALSE
+"30913089","Cytology",FALSE
+"30913089","Staging",FALSE
+"30913089","Preneoplastic",FALSE
+"30913089","Microenvironment",FALSE
+"30913089","SPN",FALSE
+"30913089","AnalogueTumors",FALSE
+"30913089","Pancreattis",FALSE
+"30913089","Benign",FALSE
+"30913089","ExperimentalAnimal",FALSE
+"30913089","TechniquesMethods",FALSE
+"30913089","Epidemiology",FALSE
+"30913089","Screening",FALSE
+"30913089","RiskFactors",FALSE
+"30913089","SEER",FALSE
+"30913089","Oncomine",FALSE
+"30913089","TCGA",FALSE
+"30913089","CaseReport",FALSE
+"30913089","CaseSeries",FALSE
+"30913089","Review",FALSE
+"30913089","IOPN",FALSE
+"30913089","IPMN",FALSE
+"30913089","AJCCTNM",FALSE
+"30153220","Pancreas",TRUE
+"30153220","Ampulla",FALSE
+"30153220","BileDuct",FALSE
+"30153220","Gallbladder",FALSE
+"30153220","Neuroendocrine",TRUE
+"30153220","Morphology",TRUE
+"30153220","IHC",TRUE
+"30153220","Molecular",FALSE
+"30153220","Cytology",FALSE
+"30153220","Staging",FALSE
+"30153220","Preneoplastic",FALSE
+"30153220","Microenvironment",TRUE
+"30153220","SPN",FALSE
+"30153220","AnalogueTumors",FALSE
+"30153220","Pancreattis",FALSE
+"30153220","Benign",FALSE
+"30153220","ExperimentalAnimal",FALSE
+"30153220","TechniquesMethods",FALSE
+"30153220","Epidemiology",FALSE
+"30153220","Screening",FALSE
+"30153220","RiskFactors",FALSE
+"30153220","SEER",FALSE
+"30153220","Oncomine",FALSE
+"30153220","TCGA",FALSE
+"30153220","CaseReport",FALSE
+"30153220","CaseSeries",FALSE
+"30153220","Review",FALSE
+"30153220","IOPN",FALSE
+"30153220","IPMN",FALSE
+"30153220","AJCCTNM",FALSE
+"30340569","Pancreas",TRUE
+"30340569","Ampulla",FALSE
+"30340569","BileDuct",FALSE
+"30340569","Gallbladder",FALSE
+"30340569","Neuroendocrine",TRUE
+"30340569","Morphology",FALSE
+"30340569","IHC",FALSE
+"30340569","Molecular",FALSE
+"30340569","Cytology",FALSE
+"30340569","Staging",TRUE
+"30340569","Preneoplastic",FALSE
+"30340569","Microenvironment",FALSE
+"30340569","SPN",FALSE
+"30340569","AnalogueTumors",FALSE
+"30340569","Pancreattis",FALSE
+"30340569","Benign",FALSE
+"30340569","ExperimentalAnimal",FALSE
+"30340569","TechniquesMethods",FALSE
+"30340569","Epidemiology",FALSE
+"30340569","Screening",FALSE
+"30340569","RiskFactors",FALSE
+"30340569","SEER",TRUE
+"30340569","Oncomine",FALSE
+"30340569","TCGA",FALSE
+"30340569","CaseReport",FALSE
+"30340569","CaseSeries",FALSE
+"30340569","Review",FALSE
+"30340569","IOPN",FALSE
+"30340569","IPMN",FALSE
+"30340569","AJCCTNM",FALSE
+"30872175","Pancreas",TRUE
+"30872175","Ampulla",FALSE
+"30872175","BileDuct",FALSE
+"30872175","Gallbladder",FALSE
+"30872175","Neuroendocrine",TRUE
+"30872175","Morphology",FALSE
+"30872175","IHC",FALSE
+"30872175","Molecular",FALSE
+"30872175","Cytology",FALSE
+"30872175","Staging",TRUE
+"30872175","Preneoplastic",FALSE
+"30872175","Microenvironment",FALSE
+"30872175","SPN",FALSE
+"30872175","AnalogueTumors",FALSE
+"30872175","Pancreattis",FALSE
+"30872175","Benign",FALSE
+"30872175","ExperimentalAnimal",FALSE
+"30872175","TechniquesMethods",FALSE
+"30872175","Epidemiology",FALSE
+"30872175","Screening",FALSE
+"30872175","RiskFactors",FALSE
+"30872175","SEER",TRUE
+"30872175","Oncomine",FALSE
+"30872175","TCGA",FALSE
+"30872175","CaseReport",FALSE
+"30872175","CaseSeries",FALSE
+"30872175","Review",FALSE
+"30872175","IOPN",FALSE
+"30872175","IPMN",FALSE
+"30872175","AJCCTNM",FALSE
+"30730608","Pancreas",FALSE
+"30730608","Ampulla",FALSE
+"30730608","BileDuct",TRUE
+"30730608","Gallbladder",FALSE
+"30730608","Neuroendocrine",FALSE
+"30730608","Morphology",TRUE
+"30730608","IHC",FALSE
+"30730608","Molecular",FALSE
+"30730608","Cytology",TRUE
+"30730608","Staging",FALSE
+"30730608","Preneoplastic",FALSE
+"30730608","Microenvironment",FALSE
+"30730608","SPN",FALSE
+"30730608","AnalogueTumors",FALSE
+"30730608","Pancreattis",FALSE
+"30730608","Benign",FALSE
+"30730608","ExperimentalAnimal",FALSE
+"30730608","TechniquesMethods",FALSE
+"30730608","Epidemiology",FALSE
+"30730608","Screening",FALSE
+"30730608","RiskFactors",FALSE
+"30730608","SEER",FALSE
+"30730608","Oncomine",FALSE
+"30730608","TCGA",FALSE
+"30730608","CaseReport",FALSE
+"30730608","CaseSeries",FALSE
+"30730608","Review",FALSE
+"30730608","IOPN",FALSE
+"30730608","IPMN",FALSE
+"30730608","AJCCTNM",FALSE
+"30846414","Pancreas",TRUE
+"30846414","Ampulla",FALSE
+"30846414","BileDuct",FALSE
+"30846414","Gallbladder",FALSE
+"30846414","Neuroendocrine",FALSE
+"30846414","Morphology",FALSE
+"30846414","IHC",FALSE
+"30846414","Molecular",TRUE
+"30846414","Cytology",FALSE
+"30846414","Staging",FALSE
+"30846414","Preneoplastic",FALSE
+"30846414","Microenvironment",FALSE
+"30846414","SPN",FALSE
+"30846414","AnalogueTumors",FALSE
+"30846414","Pancreattis",FALSE
+"30846414","Benign",FALSE
+"30846414","ExperimentalAnimal",FALSE
+"30846414","TechniquesMethods",FALSE
+"30846414","Epidemiology",FALSE
+"30846414","Screening",FALSE
+"30846414","RiskFactors",FALSE
+"30846414","SEER",FALSE
+"30846414","Oncomine",FALSE
+"30846414","TCGA",FALSE
+"30846414","CaseReport",FALSE
+"30846414","CaseSeries",FALSE
+"30846414","Review",FALSE
+"30846414","IOPN",FALSE
+"30846414","IPMN",FALSE
+"30846414","AJCCTNM",FALSE
+"30836094","Pancreas",TRUE
+"30836094","Ampulla",FALSE
+"30836094","BileDuct",FALSE
+"30836094","Gallbladder",FALSE
+"30836094","Neuroendocrine",FALSE
+"30836094","Morphology",FALSE
+"30836094","IHC",FALSE
+"30836094","Molecular",TRUE
+"30836094","Cytology",FALSE
+"30836094","Staging",FALSE
+"30836094","Preneoplastic",FALSE
+"30836094","Microenvironment",FALSE
+"30836094","SPN",FALSE
+"30836094","AnalogueTumors",FALSE
+"30836094","Pancreattis",FALSE
+"30836094","Benign",FALSE
+"30836094","ExperimentalAnimal",FALSE
+"30836094","TechniquesMethods",FALSE
+"30836094","Epidemiology",FALSE
+"30836094","Screening",FALSE
+"30836094","RiskFactors",FALSE
+"30836094","SEER",FALSE
+"30836094","Oncomine",FALSE
+"30836094","TCGA",FALSE
+"30836094","CaseReport",FALSE
+"30836094","CaseSeries",FALSE
+"30836094","Review",FALSE
+"30836094","IOPN",FALSE
+"30836094","IPMN",FALSE
+"30836094","AJCCTNM",FALSE
+"30826259","Pancreas",TRUE
+"30826259","Ampulla",FALSE
+"30826259","BileDuct",FALSE
+"30826259","Gallbladder",FALSE
+"30826259","Neuroendocrine",FALSE
+"30826259","Morphology",FALSE
+"30826259","IHC",FALSE
+"30826259","Molecular",TRUE
+"30826259","Cytology",FALSE
+"30826259","Staging",FALSE
+"30826259","Preneoplastic",FALSE
+"30826259","Microenvironment",FALSE
+"30826259","SPN",FALSE
+"30826259","AnalogueTumors",FALSE
+"30826259","Pancreattis",FALSE
+"30826259","Benign",FALSE
+"30826259","ExperimentalAnimal",FALSE
+"30826259","TechniquesMethods",FALSE
+"30826259","Epidemiology",FALSE
+"30826259","Screening",FALSE
+"30826259","RiskFactors",FALSE
+"30826259","SEER",FALSE
+"30826259","Oncomine",FALSE
+"30826259","TCGA",FALSE
+"30826259","CaseReport",FALSE
+"30826259","CaseSeries",FALSE
+"30826259","Review",FALSE
+"30826259","IOPN",FALSE
+"30826259","IPMN",FALSE
+"30826259","AJCCTNM",FALSE
+"30728464","Pancreas",TRUE
+"30728464","Ampulla",FALSE
+"30728464","BileDuct",FALSE
+"30728464","Gallbladder",FALSE
+"30728464","Neuroendocrine",FALSE
+"30728464","Morphology",FALSE
+"30728464","IHC",FALSE
+"30728464","Molecular",TRUE
+"30728464","Cytology",FALSE
+"30728464","Staging",FALSE
+"30728464","Preneoplastic",FALSE
+"30728464","Microenvironment",FALSE
+"30728464","SPN",FALSE
+"30728464","AnalogueTumors",FALSE
+"30728464","Pancreattis",FALSE
+"30728464","Benign",FALSE
+"30728464","ExperimentalAnimal",TRUE
+"30728464","TechniquesMethods",FALSE
+"30728464","Epidemiology",FALSE
+"30728464","Screening",FALSE
+"30728464","RiskFactors",FALSE
+"30728464","SEER",FALSE
+"30728464","Oncomine",FALSE
+"30728464","TCGA",FALSE
+"30728464","CaseReport",FALSE
+"30728464","CaseSeries",FALSE
+"30728464","Review",FALSE
+"30728464","IOPN",FALSE
+"30728464","IPMN",FALSE
+"30728464","AJCCTNM",FALSE
+"30811747","Pancreas",TRUE
+"30811747","Ampulla",FALSE
+"30811747","BileDuct",FALSE
+"30811747","Gallbladder",FALSE
+"30811747","Neuroendocrine",FALSE
+"30811747","Morphology",FALSE
+"30811747","IHC",FALSE
+"30811747","Molecular",TRUE
+"30811747","Cytology",FALSE
+"30811747","Staging",FALSE
+"30811747","Preneoplastic",FALSE
+"30811747","Microenvironment",FALSE
+"30811747","SPN",TRUE
+"30811747","AnalogueTumors",FALSE
+"30811747","Pancreattis",FALSE
+"30811747","Benign",FALSE
+"30811747","ExperimentalAnimal",FALSE
+"30811747","TechniquesMethods",FALSE
+"30811747","Epidemiology",FALSE
+"30811747","Screening",FALSE
+"30811747","RiskFactors",FALSE
+"30811747","SEER",FALSE
+"30811747","Oncomine",FALSE
+"30811747","TCGA",FALSE
+"30811747","CaseReport",FALSE
+"30811747","CaseSeries",FALSE
+"30811747","Review",FALSE
+"30811747","IOPN",FALSE
+"30811747","IPMN",FALSE
+"30811747","AJCCTNM",FALSE
+"30705050","Pancreas",TRUE
+"30705050","Ampulla",FALSE
+"30705050","BileDuct",FALSE
+"30705050","Gallbladder",FALSE
+"30705050","Neuroendocrine",FALSE
+"30705050","Morphology",FALSE
+"30705050","IHC",FALSE
+"30705050","Molecular",TRUE
+"30705050","Cytology",FALSE
+"30705050","Staging",FALSE
+"30705050","Preneoplastic",FALSE
+"30705050","Microenvironment",TRUE
+"30705050","SPN",FALSE
+"30705050","AnalogueTumors",FALSE
+"30705050","Pancreattis",TRUE
+"30705050","Benign",TRUE
+"30705050","ExperimentalAnimal",FALSE
+"30705050","TechniquesMethods",FALSE
+"30705050","Epidemiology",FALSE
+"30705050","Screening",FALSE
+"30705050","RiskFactors",FALSE
+"30705050","SEER",FALSE
+"30705050","Oncomine",FALSE
+"30705050","TCGA",FALSE
+"30705050","CaseReport",FALSE
+"30705050","CaseSeries",FALSE
+"30705050","Review",FALSE
+"30705050","IOPN",FALSE
+"30705050","IPMN",FALSE
+"30705050","AJCCTNM",FALSE
+"30800224","Pancreas",TRUE
+"30800224","Ampulla",FALSE
+"30800224","BileDuct",FALSE
+"30800224","Gallbladder",FALSE
+"30800224","Neuroendocrine",FALSE
+"30800224","Morphology",FALSE
+"30800224","IHC",FALSE
+"30800224","Molecular",TRUE
+"30800224","Cytology",FALSE
+"30800224","Staging",FALSE
+"30800224","Preneoplastic",FALSE
+"30800224","Microenvironment",TRUE
+"30800224","SPN",FALSE
+"30800224","AnalogueTumors",FALSE
+"30800224","Pancreattis",FALSE
+"30800224","Benign",FALSE
+"30800224","ExperimentalAnimal",FALSE
+"30800224","TechniquesMethods",FALSE
+"30800224","Epidemiology",FALSE
+"30800224","Screening",FALSE
+"30800224","RiskFactors",FALSE
+"30800224","SEER",FALSE
+"30800224","Oncomine",FALSE
+"30800224","TCGA",FALSE
+"30800224","CaseReport",FALSE
+"30800224","CaseSeries",FALSE
+"30800224","Review",FALSE
+"30800224","IOPN",FALSE
+"30800224","IPMN",FALSE
+"30800224","AJCCTNM",FALSE
+"30799278","Pancreas",TRUE
+"30799278","Ampulla",FALSE
+"30799278","BileDuct",FALSE
+"30799278","Gallbladder",FALSE
+"30799278","Neuroendocrine",FALSE
+"30799278","Morphology",FALSE
+"30799278","IHC",FALSE
+"30799278","Molecular",TRUE
+"30799278","Cytology",FALSE
+"30799278","Staging",FALSE
+"30799278","Preneoplastic",FALSE
+"30799278","Microenvironment",TRUE
+"30799278","SPN",FALSE
+"30799278","AnalogueTumors",FALSE
+"30799278","Pancreattis",FALSE
+"30799278","Benign",FALSE
+"30799278","ExperimentalAnimal",FALSE
+"30799278","TechniquesMethods",FALSE
+"30799278","Epidemiology",FALSE
+"30799278","Screening",FALSE
+"30799278","RiskFactors",FALSE
+"30799278","SEER",FALSE
+"30799278","Oncomine",FALSE
+"30799278","TCGA",FALSE
+"30799278","CaseReport",FALSE
+"30799278","CaseSeries",FALSE
+"30799278","Review",FALSE
+"30799278","IOPN",FALSE
+"30799278","IPMN",FALSE
+"30799278","AJCCTNM",FALSE
+"30716326","Pancreas",TRUE
+"30716326","Ampulla",FALSE
+"30716326","BileDuct",FALSE
+"30716326","Gallbladder",FALSE
+"30716326","Neuroendocrine",FALSE
+"30716326","Morphology",FALSE
+"30716326","IHC",FALSE
+"30716326","Molecular",TRUE
+"30716326","Cytology",FALSE
+"30716326","Staging",FALSE
+"30716326","Preneoplastic",FALSE
+"30716326","Microenvironment",TRUE
+"30716326","SPN",FALSE
+"30716326","AnalogueTumors",FALSE
+"30716326","Pancreattis",FALSE
+"30716326","Benign",FALSE
+"30716326","ExperimentalAnimal",FALSE
+"30716326","TechniquesMethods",FALSE
+"30716326","Epidemiology",FALSE
+"30716326","Screening",FALSE
+"30716326","RiskFactors",FALSE
+"30716326","SEER",FALSE
+"30716326","Oncomine",FALSE
+"30716326","TCGA",FALSE
+"30716326","CaseReport",FALSE
+"30716326","CaseSeries",FALSE
+"30716326","Review",FALSE
+"30716326","IOPN",FALSE
+"30716326","IPMN",FALSE
+"30716326","AJCCTNM",FALSE
+"30577767","Pancreas",TRUE
+"30577767","Ampulla",FALSE
+"30577767","BileDuct",FALSE
+"30577767","Gallbladder",FALSE
+"30577767","Neuroendocrine",FALSE
+"30577767","Morphology",FALSE
+"30577767","IHC",FALSE
+"30577767","Molecular",TRUE
+"30577767","Cytology",FALSE
+"30577767","Staging",FALSE
+"30577767","Preneoplastic",FALSE
+"30577767","Microenvironment",TRUE
+"30577767","SPN",FALSE
+"30577767","AnalogueTumors",FALSE
+"30577767","Pancreattis",FALSE
+"30577767","Benign",FALSE
+"30577767","ExperimentalAnimal",FALSE
+"30577767","TechniquesMethods",FALSE
+"30577767","Epidemiology",FALSE
+"30577767","Screening",FALSE
+"30577767","RiskFactors",FALSE
+"30577767","SEER",FALSE
+"30577767","Oncomine",FALSE
+"30577767","TCGA",FALSE
+"30577767","CaseReport",FALSE
+"30577767","CaseSeries",FALSE
+"30577767","Review",FALSE
+"30577767","IOPN",FALSE
+"30577767","IPMN",FALSE
+"30577767","AJCCTNM",FALSE
+"30716324","Pancreas",TRUE
+"30716324","Ampulla",FALSE
+"30716324","BileDuct",FALSE
+"30716324","Gallbladder",FALSE
+"30716324","Neuroendocrine",FALSE
+"30716324","Morphology",FALSE
+"30716324","IHC",FALSE
+"30716324","Molecular",TRUE
+"30716324","Cytology",FALSE
+"30716324","Staging",FALSE
+"30716324","Preneoplastic",TRUE
+"30716324","Microenvironment",FALSE
+"30716324","SPN",FALSE
+"30716324","AnalogueTumors",FALSE
+"30716324","Pancreattis",FALSE
+"30716324","Benign",FALSE
+"30716324","ExperimentalAnimal",FALSE
+"30716324","TechniquesMethods",FALSE
+"30716324","Epidemiology",FALSE
+"30716324","Screening",FALSE
+"30716324","RiskFactors",FALSE
+"30716324","SEER",FALSE
+"30716324","Oncomine",FALSE
+"30716324","TCGA",FALSE
+"30716324","CaseReport",FALSE
+"30716324","CaseSeries",FALSE
+"30716324","Review",FALSE
+"30716324","IOPN",FALSE
+"30716324","IPMN",TRUE
+"30716324","AJCCTNM",FALSE
+"31014264","Pancreas",TRUE
+"31014264","Ampulla",FALSE
+"31014264","BileDuct",FALSE
+"31014264","Gallbladder",FALSE
+"31014264","Neuroendocrine",FALSE
+"31014264","Morphology",FALSE
+"31014264","IHC",FALSE
+"31014264","Molecular",FALSE
+"31014264","Cytology",FALSE
+"31014264","Staging",TRUE
+"31014264","Preneoplastic",FALSE
+"31014264","Microenvironment",FALSE
+"31014264","SPN",FALSE
+"31014264","AnalogueTumors",FALSE
+"31014264","Pancreattis",FALSE
+"31014264","Benign",FALSE
+"31014264","ExperimentalAnimal",FALSE
+"31014264","TechniquesMethods",FALSE
+"31014264","Epidemiology",TRUE
+"31014264","Screening",FALSE
+"31014264","RiskFactors",FALSE
+"31014264","SEER",TRUE
+"31014264","Oncomine",FALSE
+"31014264","TCGA",FALSE
+"31014264","CaseReport",FALSE
+"31014264","CaseSeries",FALSE
+"31014264","Review",FALSE
+"31014264","IOPN",FALSE
+"31014264","IPMN",FALSE
+"31014264","AJCCTNM",TRUE
+"30941687","Pancreas",TRUE
+"30941687","Ampulla",FALSE
+"30941687","BileDuct",FALSE
+"30941687","Gallbladder",FALSE
+"30941687","Neuroendocrine",FALSE
+"30941687","Morphology",TRUE
+"30941687","IHC",FALSE
+"30941687","Molecular",FALSE
+"30941687","Cytology",FALSE
+"30941687","Staging",FALSE
+"30941687","Preneoplastic",FALSE
+"30941687","Microenvironment",FALSE
+"30941687","SPN",FALSE
+"30941687","AnalogueTumors",FALSE
+"30941687","Pancreattis",FALSE
+"30941687","Benign",FALSE
+"30941687","ExperimentalAnimal",FALSE
+"30941687","TechniquesMethods",FALSE
+"30941687","Epidemiology",FALSE
+"30941687","Screening",FALSE
+"30941687","RiskFactors",FALSE
+"30941687","SEER",FALSE
+"30941687","Oncomine",FALSE
+"30941687","TCGA",FALSE
+"30941687","CaseReport",FALSE
+"30941687","CaseSeries",TRUE
+"30941687","Review",FALSE
+"30941687","IOPN",FALSE
+"30941687","IPMN",FALSE
+"30941687","AJCCTNM",FALSE
+"30973469","Pancreas",TRUE
+"30973469","Ampulla",FALSE
+"30973469","BileDuct",FALSE
+"30973469","Gallbladder",FALSE
+"30973469","Neuroendocrine",FALSE
+"30973469","Morphology",TRUE
+"30973469","IHC",FALSE
+"30973469","Molecular",FALSE
+"30973469","Cytology",FALSE
+"30973469","Staging",FALSE
+"30973469","Preneoplastic",FALSE
+"30973469","Microenvironment",FALSE
+"30973469","SPN",FALSE
+"30973469","AnalogueTumors",FALSE
+"30973469","Pancreattis",FALSE
+"30973469","Benign",FALSE
+"30973469","ExperimentalAnimal",FALSE
+"30973469","TechniquesMethods",FALSE
+"30973469","Epidemiology",FALSE
+"30973469","Screening",FALSE
+"30973469","RiskFactors",FALSE
+"30973469","SEER",FALSE
+"30973469","Oncomine",FALSE
+"30973469","TCGA",FALSE
+"30973469","CaseReport",FALSE
+"30973469","CaseSeries",FALSE
+"30973469","Review",FALSE
+"30973469","IOPN",FALSE
+"30973469","IPMN",FALSE
+"30973469","AJCCTNM",FALSE
+"30973464","Pancreas",TRUE
+"30973464","Ampulla",FALSE
+"30973464","BileDuct",FALSE
+"30973464","Gallbladder",FALSE
+"30973464","Neuroendocrine",FALSE
+"30973464","Morphology",FALSE
+"30973464","IHC",FALSE
+"30973464","Molecular",FALSE
+"30973464","Cytology",FALSE
+"30973464","Staging",FALSE
+"30973464","Preneoplastic",FALSE
+"30973464","Microenvironment",FALSE
+"30973464","SPN",TRUE
+"30973464","AnalogueTumors",FALSE
+"30973464","Pancreattis",FALSE
+"30973464","Benign",FALSE
+"30973464","ExperimentalAnimal",FALSE
+"30973464","TechniquesMethods",FALSE
+"30973464","Epidemiology",TRUE
+"30973464","Screening",FALSE
+"30973464","RiskFactors",FALSE
+"30973464","SEER",FALSE
+"30973464","Oncomine",FALSE
+"30973464","TCGA",FALSE
+"30973464","CaseReport",FALSE
+"30973464","CaseSeries",FALSE
+"30973464","Review",FALSE
+"30973464","IOPN",FALSE
+"30973464","IPMN",FALSE
+"30973464","AJCCTNM",FALSE
+"31022384","Pancreas",TRUE
+"31022384","Ampulla",FALSE
+"31022384","BileDuct",FALSE
+"31022384","Gallbladder",FALSE
+"31022384","Neuroendocrine",FALSE
+"31022384","Morphology",FALSE
+"31022384","IHC",FALSE
+"31022384","Molecular",TRUE
+"31022384","Cytology",FALSE
+"31022384","Staging",FALSE
+"31022384","Preneoplastic",FALSE
+"31022384","Microenvironment",TRUE
+"31022384","SPN",FALSE
+"31022384","AnalogueTumors",FALSE
+"31022384","Pancreattis",FALSE
+"31022384","Benign",FALSE
+"31022384","ExperimentalAnimal",TRUE
+"31022384","TechniquesMethods",FALSE
+"31022384","Epidemiology",FALSE
+"31022384","Screening",FALSE
+"31022384","RiskFactors",FALSE
+"31022384","SEER",FALSE
+"31022384","Oncomine",FALSE
+"31022384","TCGA",FALSE
+"31022384","CaseReport",FALSE
+"31022384","CaseSeries",FALSE
+"31022384","Review",FALSE
+"31022384","IOPN",FALSE
+"31022384","IPMN",FALSE
+"31022384","AJCCTNM",FALSE
+"31020988","Pancreas",TRUE
+"31020988","Ampulla",FALSE
+"31020988","BileDuct",FALSE
+"31020988","Gallbladder",FALSE
+"31020988","Neuroendocrine",TRUE
+"31020988","Morphology",TRUE
+"31020988","IHC",FALSE
+"31020988","Molecular",FALSE
+"31020988","Cytology",FALSE
+"31020988","Staging",FALSE
+"31020988","Preneoplastic",FALSE
+"31020988","Microenvironment",FALSE
+"31020988","SPN",FALSE
+"31020988","AnalogueTumors",FALSE
+"31020988","Pancreattis",FALSE
+"31020988","Benign",FALSE
+"31020988","ExperimentalAnimal",FALSE
+"31020988","TechniquesMethods",FALSE
+"31020988","Epidemiology",FALSE
+"31020988","Screening",FALSE
+"31020988","RiskFactors",FALSE
+"31020988","SEER",FALSE
+"31020988","Oncomine",FALSE
+"31020988","TCGA",FALSE
+"31020988","CaseReport",FALSE
+"31020988","CaseSeries",FALSE
+"31020988","Review",FALSE
+"31020988","IOPN",FALSE
+"31020988","IPMN",FALSE
+"31020988","AJCCTNM",FALSE
+"29043580","Pancreas",TRUE
+"29043580","Ampulla",FALSE
+"29043580","BileDuct",FALSE
+"29043580","Gallbladder",FALSE
+"29043580","Neuroendocrine",FALSE
+"29043580","Morphology",FALSE
+"29043580","IHC",FALSE
+"29043580","Molecular",FALSE
+"29043580","Cytology",FALSE
+"29043580","Staging",TRUE
+"29043580","Preneoplastic",FALSE
+"29043580","Microenvironment",FALSE
+"29043580","SPN",FALSE
+"29043580","AnalogueTumors",FALSE
+"29043580","Pancreattis",FALSE
+"29043580","Benign",FALSE
+"29043580","ExperimentalAnimal",FALSE
+"29043580","TechniquesMethods",FALSE
+"29043580","Epidemiology",FALSE
+"29043580","Screening",FALSE
+"29043580","RiskFactors",FALSE
+"29043580","SEER",FALSE
+"29043580","Oncomine",FALSE
+"29043580","TCGA",FALSE
+"29043580","CaseReport",FALSE
+"29043580","CaseSeries",FALSE
+"29043580","Review",FALSE
+"29043580","IOPN",FALSE
+"29043580","IPMN",FALSE
+"29043580","AJCCTNM",TRUE
+"30946243","Pancreas",TRUE
+"30946243","Ampulla",FALSE
+"30946243","BileDuct",FALSE
+"30946243","Gallbladder",FALSE
+"30946243","Neuroendocrine",FALSE
+"30946243","Morphology",TRUE
+"30946243","IHC",FALSE
+"30946243","Molecular",FALSE
+"30946243","Cytology",FALSE
+"30946243","Staging",FALSE
+"30946243","Preneoplastic",TRUE
+"30946243","Microenvironment",FALSE
+"30946243","SPN",FALSE
+"30946243","AnalogueTumors",FALSE
+"30946243","Pancreattis",FALSE
+"30946243","Benign",FALSE
+"30946243","ExperimentalAnimal",FALSE
+"30946243","TechniquesMethods",FALSE
+"30946243","Epidemiology",FALSE
+"30946243","Screening",FALSE
+"30946243","RiskFactors",FALSE
+"30946243","SEER",FALSE
+"30946243","Oncomine",FALSE
+"30946243","TCGA",FALSE
+"30946243","CaseReport",FALSE
+"30946243","CaseSeries",FALSE
+"30946243","Review",FALSE
+"30946243","IOPN",FALSE
+"30946243","IPMN",TRUE
+"30946243","AJCCTNM",FALSE
+"30879148","Pancreas",TRUE
+"30879148","Ampulla",FALSE
+"30879148","BileDuct",FALSE
+"30879148","Gallbladder",FALSE
+"30879148","Neuroendocrine",FALSE
+"30879148","Morphology",TRUE
+"30879148","IHC",TRUE
+"30879148","Molecular",TRUE
+"30879148","Cytology",FALSE
+"30879148","Staging",FALSE
+"30879148","Preneoplastic",TRUE
+"30879148","Microenvironment",FALSE
+"30879148","SPN",FALSE
+"30879148","AnalogueTumors",FALSE
+"30879148","Pancreattis",FALSE
+"30879148","Benign",FALSE
+"30879148","ExperimentalAnimal",FALSE
+"30879148","TechniquesMethods",FALSE
+"30879148","Epidemiology",FALSE
+"30879148","Screening",FALSE
+"30879148","RiskFactors",FALSE
+"30879148","SEER",FALSE
+"30879148","Oncomine",FALSE
+"30879148","TCGA",FALSE
+"30879148","CaseReport",FALSE
+"30879148","CaseSeries",FALSE
+"30879148","Review",FALSE
+"30879148","IOPN",FALSE
+"30879148","IPMN",FALSE
+"30879148","AJCCTNM",FALSE
+"31009406","Pancreas",TRUE
+"31009406","Ampulla",FALSE
+"31009406","BileDuct",FALSE
+"31009406","Gallbladder",FALSE
+"31009406","Neuroendocrine",FALSE
+"31009406","Morphology",TRUE
+"31009406","IHC",TRUE
+"31009406","Molecular",FALSE
+"31009406","Cytology",FALSE
+"31009406","Staging",FALSE
+"31009406","Preneoplastic",TRUE
+"31009406","Microenvironment",FALSE
+"31009406","SPN",FALSE
+"31009406","AnalogueTumors",FALSE
+"31009406","Pancreattis",FALSE
+"31009406","Benign",TRUE
+"31009406","ExperimentalAnimal",FALSE
+"31009406","TechniquesMethods",FALSE
+"31009406","Epidemiology",FALSE
+"31009406","Screening",FALSE
+"31009406","RiskFactors",FALSE
+"31009406","SEER",FALSE
+"31009406","Oncomine",FALSE
+"31009406","TCGA",FALSE
+"31009406","CaseReport",FALSE
+"31009406","CaseSeries",FALSE
+"31009406","Review",FALSE
+"31009406","IOPN",FALSE
+"31009406","IPMN",FALSE
+"31009406","AJCCTNM",FALSE
+"31025231","Pancreas",TRUE
+"31025231","Ampulla",FALSE
+"31025231","BileDuct",FALSE
+"31025231","Gallbladder",FALSE
+"31025231","Neuroendocrine",FALSE
+"31025231","Morphology",FALSE
+"31025231","IHC",FALSE
+"31025231","Molecular",TRUE
+"31025231","Cytology",FALSE
+"31025231","Staging",FALSE
+"31025231","Preneoplastic",TRUE
+"31025231","Microenvironment",FALSE
+"31025231","SPN",FALSE
+"31025231","AnalogueTumors",FALSE
+"31025231","Pancreattis",FALSE
+"31025231","Benign",FALSE
+"31025231","ExperimentalAnimal",FALSE
+"31025231","TechniquesMethods",FALSE
+"31025231","Epidemiology",FALSE
+"31025231","Screening",FALSE
+"31025231","RiskFactors",FALSE
+"31025231","SEER",FALSE
+"31025231","Oncomine",FALSE
+"31025231","TCGA",FALSE
+"31025231","CaseReport",FALSE
+"31025231","CaseSeries",FALSE
+"31025231","Review",FALSE
+"31025231","IOPN",FALSE
+"31025231","IPMN",TRUE
+"31025231","AJCCTNM",FALSE
+"30667537","Pancreas",FALSE
+"30667537","Ampulla",FALSE
+"30667537","BileDuct",TRUE
+"30667537","Gallbladder",FALSE
+"30667537","Neuroendocrine",FALSE
+"30667537","Morphology",TRUE
+"30667537","IHC",TRUE
+"30667537","Molecular",FALSE
+"30667537","Cytology",FALSE
+"30667537","Staging",FALSE
+"30667537","Preneoplastic",FALSE
+"30667537","Microenvironment",FALSE
+"30667537","SPN",FALSE
+"30667537","AnalogueTumors",FALSE
+"30667537","Pancreattis",FALSE
+"30667537","Benign",FALSE
+"30667537","ExperimentalAnimal",FALSE
+"30667537","TechniquesMethods",FALSE
+"30667537","Epidemiology",FALSE
+"30667537","Screening",FALSE
+"30667537","RiskFactors",FALSE
+"30667537","SEER",FALSE
+"30667537","Oncomine",FALSE
+"30667537","TCGA",FALSE
+"30667537","CaseReport",FALSE
+"30667537","CaseSeries",FALSE
+"30667537","Review",FALSE
+"30667537","IOPN",FALSE
+"30667537","IPMN",FALSE
+"30667537","AJCCTNM",FALSE
+"30986803","Pancreas",FALSE
+"30986803","Ampulla",FALSE
+"30986803","BileDuct",TRUE
+"30986803","Gallbladder",FALSE
+"30986803","Neuroendocrine",FALSE
+"30986803","Morphology",TRUE
+"30986803","IHC",FALSE
+"30986803","Molecular",FALSE
+"30986803","Cytology",FALSE
+"30986803","Staging",TRUE
+"30986803","Preneoplastic",FALSE
+"30986803","Microenvironment",FALSE
+"30986803","SPN",FALSE
+"30986803","AnalogueTumors",FALSE
+"30986803","Pancreattis",FALSE
+"30986803","Benign",FALSE
+"30986803","ExperimentalAnimal",FALSE
+"30986803","TechniquesMethods",FALSE
+"30986803","Epidemiology",FALSE
+"30986803","Screening",FALSE
+"30986803","RiskFactors",FALSE
+"30986803","SEER",FALSE
+"30986803","Oncomine",FALSE
+"30986803","TCGA",FALSE
+"30986803","CaseReport",FALSE
+"30986803","CaseSeries",FALSE
+"30986803","Review",FALSE
+"30986803","IOPN",FALSE
+"30986803","IPMN",FALSE
+"30986803","AJCCTNM",TRUE
+"28683010","Pancreas",FALSE
+"28683010","Ampulla",FALSE
+"28683010","BileDuct",FALSE
+"28683010","Gallbladder",TRUE
+"28683010","Neuroendocrine",FALSE
+"28683010","Morphology",FALSE
+"28683010","IHC",FALSE
+"28683010","Molecular",FALSE
+"28683010","Cytology",FALSE
+"28683010","Staging",TRUE
+"28683010","Preneoplastic",FALSE
+"28683010","Microenvironment",FALSE
+"28683010","SPN",FALSE
+"28683010","AnalogueTumors",FALSE
+"28683010","Pancreattis",FALSE
+"28683010","Benign",FALSE
+"28683010","ExperimentalAnimal",FALSE
+"28683010","TechniquesMethods",FALSE
+"28683010","Epidemiology",FALSE
+"28683010","Screening",FALSE
+"28683010","RiskFactors",FALSE
+"28683010","SEER",TRUE
+"28683010","Oncomine",FALSE
+"28683010","TCGA",FALSE
+"28683010","CaseReport",FALSE
+"28683010","CaseSeries",FALSE
+"28683010","Review",FALSE
+"28683010","IOPN",FALSE
+"28683010","IPMN",FALSE
+"28683010","AJCCTNM",TRUE
+"31025257","Pancreas",TRUE
+"31025257","Ampulla",FALSE
+"31025257","BileDuct",FALSE
+"31025257","Gallbladder",FALSE
+"31025257","Neuroendocrine",FALSE
+"31025257","Morphology",FALSE
+"31025257","IHC",TRUE
+"31025257","Molecular",TRUE
+"31025257","Cytology",FALSE
+"31025257","Staging",FALSE
+"31025257","Preneoplastic",FALSE
+"31025257","Microenvironment",FALSE
+"31025257","SPN",FALSE
+"31025257","AnalogueTumors",FALSE
+"31025257","Pancreattis",FALSE
+"31025257","Benign",FALSE
+"31025257","ExperimentalAnimal",FALSE
+"31025257","TechniquesMethods",FALSE
+"31025257","Epidemiology",FALSE
+"31025257","Screening",FALSE
+"31025257","RiskFactors",FALSE
+"31025257","SEER",FALSE
+"31025257","Oncomine",FALSE
+"31025257","TCGA",FALSE
+"31025257","CaseReport",FALSE
+"31025257","CaseSeries",FALSE
+"31025257","Review",FALSE
+"31025257","IOPN",FALSE
+"31025257","IPMN",FALSE
+"31025257","AJCCTNM",FALSE
+"31014264","Pancreas",TRUE
+"31014264","Ampulla",FALSE
+"31014264","BileDuct",FALSE
+"31014264","Gallbladder",FALSE
+"31014264","Neuroendocrine",FALSE
+"31014264","Morphology",FALSE
+"31014264","IHC",FALSE
+"31014264","Molecular",FALSE
+"31014264","Cytology",FALSE
+"31014264","Staging",TRUE
+"31014264","Preneoplastic",FALSE
+"31014264","Microenvironment",FALSE
+"31014264","SPN",FALSE
+"31014264","AnalogueTumors",FALSE
+"31014264","Pancreattis",FALSE
+"31014264","Benign",FALSE
+"31014264","ExperimentalAnimal",FALSE
+"31014264","TechniquesMethods",FALSE
+"31014264","Screening",FALSE
+"31014264","RiskFactors",FALSE
+"31014264","SEER",TRUE
+"31014264","Oncomine",FALSE
+"31014264","TCGA",FALSE
+"31014264","CaseReport",FALSE
+"31014264","CaseSeries",FALSE
+"31014264","Review",FALSE
+"31014264","IOPN",FALSE
+"31014264","IPMN",FALSE
+"31014264","AJCCTNM",TRUE
+"31012045","Pancreas",FALSE
+"31012045","Ampulla",FALSE
+"31012045","BileDuct",TRUE
+"31012045","Gallbladder",FALSE
+"31012045","Neuroendocrine",FALSE
+"31012045","Morphology",FALSE
+"31012045","IHC",FALSE
+"31012045","Molecular",FALSE
+"31012045","Cytology",FALSE
+"31012045","Staging",TRUE
+"31012045","Preneoplastic",FALSE
+"31012045","Microenvironment",FALSE
+"31012045","SPN",FALSE
+"31012045","AnalogueTumors",FALSE
+"31012045","Pancreattis",FALSE
+"31012045","Benign",FALSE
+"31012045","ExperimentalAnimal",FALSE
+"31012045","TechniquesMethods",FALSE
+"31012045","Epidemiology",FALSE
+"31012045","Screening",FALSE
+"31012045","RiskFactors",FALSE
+"31012045","SEER",FALSE
+"31012045","Oncomine",FALSE
+"31012045","TCGA",FALSE
+"31012045","CaseReport",FALSE
+"31012045","CaseSeries",FALSE
+"31012045","Review",FALSE
+"31012045","IOPN",FALSE
+"31012045","IPMN",FALSE
+"31012045","AJCCTNM",TRUE
+"31010632","Pancreas",FALSE
+"31010632","Ampulla",FALSE
+"31010632","BileDuct",FALSE
+"31010632","Gallbladder",TRUE
+"31010632","Neuroendocrine",FALSE
+"31010632","Morphology",FALSE
+"31010632","IHC",FALSE
+"31010632","Molecular",FALSE
+"31010632","Cytology",FALSE
+"31010632","Staging",TRUE
+"31010632","Preneoplastic",FALSE
+"31010632","Microenvironment",FALSE
+"31010632","SPN",FALSE
+"31010632","AnalogueTumors",FALSE
+"31010632","Pancreattis",FALSE
+"31010632","Benign",FALSE
+"31010632","ExperimentalAnimal",FALSE
+"31010632","TechniquesMethods",FALSE
+"31010632","Epidemiology",FALSE
+"31010632","Screening",FALSE
+"31010632","RiskFactors",FALSE
+"31010632","SEER",FALSE
+"31010632","Oncomine",FALSE
+"31010632","TCGA",FALSE
+"31010632","CaseReport",FALSE
+"31010632","CaseSeries",FALSE
+"31010632","Review",FALSE
+"31010632","IOPN",FALSE
+"31010632","IPMN",FALSE
+"31010632","AJCCTNM",TRUE
+"31037440","Pancreas",TRUE
+"31037440","Ampulla",FALSE
+"31037440","BileDuct",FALSE
+"31037440","Gallbladder",FALSE
+"31037440","Neuroendocrine",FALSE
+"31037440","Morphology",TRUE
+"31037440","IHC",FALSE
+"31037440","Molecular",FALSE
+"31037440","Cytology",FALSE
+"31037440","Staging",TRUE
+"31037440","Preneoplastic",FALSE
+"31037440","Microenvironment",FALSE
+"31037440","SPN",FALSE
+"31037440","AnalogueTumors",FALSE
+"31037440","Pancreattis",FALSE
+"31037440","Benign",FALSE
+"31037440","ExperimentalAnimal",FALSE
+"31037440","TechniquesMethods",FALSE
+"31037440","Epidemiology",FALSE
+"31037440","Screening",FALSE
+"31037440","RiskFactors",FALSE
+"31037440","SEER",FALSE
+"31037440","Oncomine",FALSE
+"31037440","TCGA",FALSE
+"31037440","CaseReport",FALSE
+"31037440","CaseSeries",FALSE
+"31037440","Review",FALSE
+"31037440","IOPN",FALSE
+"31037440","IPMN",FALSE
+"31037440","AJCCTNM",TRUE
+"31033498","Pancreas",TRUE
+"31033498","Ampulla",FALSE
+"31033498","BileDuct",TRUE
+"31033498","Gallbladder",FALSE
+"31033498","Neuroendocrine",FALSE
+"31033498","Morphology",TRUE
+"31033498","IHC",TRUE
+"31033498","Molecular",FALSE
+"31033498","Cytology",FALSE
+"31033498","Staging",FALSE
+"31033498","Preneoplastic",FALSE
+"31033498","Microenvironment",FALSE
+"31033498","SPN",FALSE
+"31033498","AnalogueTumors",FALSE
+"31033498","Pancreattis",FALSE
+"31033498","Benign",FALSE
+"31033498","ExperimentalAnimal",FALSE
+"31033498","TechniquesMethods",FALSE
+"31033498","Epidemiology",FALSE
+"31033498","Screening",FALSE
+"31033498","RiskFactors",FALSE
+"31033498","SEER",FALSE
+"31033498","Oncomine",FALSE
+"31033498","TCGA",FALSE
+"31033498","CaseReport",FALSE
+"31033498","CaseSeries",FALSE
+"31033498","Review",FALSE
+"31033498","IOPN",FALSE
+"31033498","IPMN",FALSE
+"31033498","AJCCTNM",FALSE
+"    31026288","Pancreas",TRUE
+"    31026288","Ampulla",FALSE
+"    31026288","BileDuct",FALSE
+"    31026288","Gallbladder",FALSE
+"    31026288","Neuroendocrine",FALSE
+"    31026288","Morphology",FALSE
+"    31026288","IHC",FALSE
+"    31026288","Molecular",FALSE
+"    31026288","Cytology",FALSE
+"    31026288","Staging",FALSE
+"    31026288","Preneoplastic",FALSE
+"    31026288","Microenvironment",FALSE
+"    31026288","SPN",FALSE
+"    31026288","AnalogueTumors",FALSE
+"    31026288","Pancreattis",FALSE
+"    31026288","Benign",FALSE
+"    31026288","ExperimentalAnimal",TRUE
+"    31026288","TechniquesMethods",TRUE
+"    31026288","Epidemiology",FALSE
+"    31026288","Screening",FALSE
+"    31026288","RiskFactors",FALSE
+"    31026288","SEER",FALSE
+"    31026288","Oncomine",FALSE
+"    31026288","TCGA",FALSE
+"    31026288","CaseReport",FALSE
+"    31026288","CaseSeries",FALSE
+"    31026288","Review",FALSE
+"    31026288","IOPN",FALSE
+"    31026288","IPMN",FALSE
+"    31026288","AJCCTNM",FALSE
+"    30716324","Pancreas",TRUE
+"    30716324","Ampulla",FALSE
+"    30716324","BileDuct",FALSE
+"    30716324","Gallbladder",FALSE
+"    30716324","Neuroendocrine",FALSE
+"    30716324","Morphology",FALSE
+"    30716324","IHC",FALSE
+"    30716324","Molecular",TRUE
+"    30716324","Cytology",FALSE
+"    30716324","Staging",FALSE
+"    30716324","Preneoplastic",TRUE
+"    30716324","Microenvironment",FALSE
+"    30716324","SPN",FALSE
+"    30716324","AnalogueTumors",FALSE
+"    30716324","Pancreattis",FALSE
+"    30716324","Benign",FALSE
+"    30716324","ExperimentalAnimal",FALSE
+"    30716324","TechniquesMethods",FALSE
+"    30716324","Epidemiology",FALSE
+"    30716324","Screening",FALSE
+"    30716324","RiskFactors",FALSE
+"    30716324","SEER",FALSE
+"    30716324","Oncomine",FALSE
+"    30716324","TCGA",FALSE
+"    30716324","CaseReport",FALSE
+"    30716324","CaseSeries",FALSE
+"    30716324","Review",FALSE
+"    30716324","IOPN",FALSE
+"    30716324","IPMN",TRUE
+"    30716324","AJCCTNM",FALSE
+"    31018208","Pancreas",FALSE
+"    31018208","Ampulla",FALSE
+"    31018208","BileDuct",FALSE
+"    31018208","Gallbladder",FALSE
+"    31018208","Neuroendocrine",TRUE
+"    31018208","Morphology",FALSE
+"    31018208","IHC",TRUE
+"    31018208","Molecular",TRUE
+"    31018208","Cytology",FALSE
+"    31018208","Staging",FALSE
+"    31018208","Preneoplastic",FALSE
+"    31018208","Microenvironment",FALSE
+"    31018208","SPN",FALSE
+"    31018208","AnalogueTumors",FALSE
+"    31018208","Pancreattis",FALSE
+"    31018208","Benign",FALSE
+"    31018208","ExperimentalAnimal",TRUE
+"    31018208","TechniquesMethods",FALSE
+"    31018208","Epidemiology",FALSE
+"    31018208","Screening",FALSE
+"    31018208","RiskFactors",FALSE
+"    31018208","SEER",FALSE
+"    31018208","Oncomine",FALSE
+"    31018208","TCGA",FALSE
+"    31018208","CaseReport",FALSE
+"    31018208","CaseSeries",FALSE
+"    31018208","Review",FALSE
+"    31018208","IOPN",FALSE
+"    31018208","IPMN",FALSE
+"    31018208","AJCCTNM",FALSE
+"    30582640","Pancreas",FALSE
+"    30582640","Ampulla",FALSE
+"    30582640","BileDuct",FALSE
+"    30582640","Gallbladder",TRUE
+"    30582640","Neuroendocrine",FALSE
+"    30582640","Morphology",FALSE
+"    30582640","IHC",FALSE
+"    30582640","Molecular",FALSE
+"    30582640","Cytology",FALSE
+"    30582640","Staging",TRUE
+"    30582640","Preneoplastic",FALSE
+"    30582640","Microenvironment",FALSE
+"    30582640","SPN",FALSE
+"    30582640","AnalogueTumors",FALSE
+"    30582640","Pancreattis",FALSE
+"    30582640","Benign",FALSE
+"    30582640","ExperimentalAnimal",FALSE
+"    30582640","TechniquesMethods",FALSE
+"    30582640","Epidemiology",FALSE
+"    30582640","Screening",FALSE
+"    30582640","RiskFactors",FALSE
+"    30582640","SEER",FALSE
+"    30582640","Oncomine",FALSE
+"    30582640","TCGA",FALSE
+"    30582640","CaseReport",FALSE
+"    30582640","CaseSeries",FALSE
+"    30582640","Review",TRUE
+"    30582640","IOPN",FALSE
+"    30582640","IPMN",FALSE
+"    30582640","AJCCTNM",TRUE
+"    31041845","Pancreas",FALSE
+"    31041845","Ampulla",FALSE
+"    31041845","BileDuct",TRUE
+"    31041845","Gallbladder",FALSE
+"    31041845","Neuroendocrine",FALSE
+"    31041845","Morphology",FALSE
+"    31041845","IHC",FALSE
+"    31041845","Molecular",FALSE
+"    31041845","Cytology",TRUE
+"    31041845","Staging",FALSE
+"    31041845","Preneoplastic",FALSE
+"    31041845","Microenvironment",FALSE
+"    31041845","SPN",FALSE
+"    31041845","AnalogueTumors",FALSE
+"    31041845","Pancreattis",FALSE
+"    31041845","Benign",FALSE
+"    31041845","ExperimentalAnimal",FALSE
+"    31041845","TechniquesMethods",FALSE
+"    31041845","Epidemiology",FALSE
+"    31041845","Screening",FALSE
+"    31041845","RiskFactors",FALSE
+"    31041845","SEER",FALSE
+"    31041845","Oncomine",FALSE
+"    31041845","TCGA",FALSE
+"    31041845","CaseReport",FALSE
+"    31041845","CaseSeries",FALSE
+"    31041845","Review",TRUE
+"    31041845","IOPN",FALSE
+"    31041845","IPMN",FALSE
+"    31041845","AJCCTNM",FALSE
+"    31032093","Pancreas",TRUE
+"    31032093","Ampulla",FALSE
+"    31032093","BileDuct",FALSE
+"    31032093","Gallbladder",FALSE
+"    31032093","Neuroendocrine",FALSE
+"    31032093","Morphology",FALSE
+"    31032093","IHC",FALSE
+"    31032093","Molecular",FALSE
+"    31032093","Cytology",FALSE
+"    31032093","Staging",TRUE
+"    31032093","Preneoplastic",FALSE
+"    31032093","Microenvironment",FALSE
+"    31032093","SPN",FALSE
+"    31032093","AnalogueTumors",FALSE
+"    31032093","Pancreattis",FALSE
+"    31032093","Benign",FALSE
+"    31032093","ExperimentalAnimal",FALSE
+"    31032093","TechniquesMethods",FALSE
+"    31032093","Epidemiology",FALSE
+"    31032093","Screening",FALSE
+"    31032093","RiskFactors",FALSE
+"    31032093","SEER",FALSE
+"    31032093","Oncomine",FALSE
+"    31032093","TCGA",FALSE
+"    31032093","CaseReport",FALSE
+"    31032093","CaseSeries",FALSE
+"    31032093","Review",TRUE
+"    31032093","IOPN",FALSE
+"    31032093","IPMN",FALSE
+"    31032093","AJCCTNM",TRUE
+"    31059182","Pancreas",FALSE
+"    31059182","Ampulla",FALSE
+"    31059182","BileDuct",TRUE
+"    31059182","Gallbladder",FALSE
+"    31059182","Neuroendocrine",FALSE
+"    31059182","Morphology",FALSE
+"    31059182","IHC",FALSE
+"    31059182","Molecular",FALSE
+"    31059182","Cytology",TRUE
+"    31059182","Staging",FALSE
+"    31059182","Preneoplastic",FALSE
+"    31059182","Microenvironment",FALSE
+"    31059182","SPN",FALSE
+"    31059182","AnalogueTumors",FALSE
+"    31059182","Pancreattis",FALSE
+"    31059182","Benign",FALSE
+"    31059182","ExperimentalAnimal",FALSE
+"    31059182","TechniquesMethods",TRUE
+"    31059182","Epidemiology",FALSE
+"    31059182","Screening",FALSE
+"    31059182","RiskFactors",FALSE
+"    31059182","SEER",FALSE
+"    31059182","Oncomine",FALSE
+"    31059182","TCGA",FALSE
+"    31059182","CaseReport",FALSE
+"    31059182","CaseSeries",FALSE
+"    31059182","Review",FALSE
+"    31059182","IOPN",FALSE
+"    31059182","IPMN",FALSE
+"    31059182","AJCCTNM",FALSE
+"    31060750","Pancreas",TRUE
+"    31060750","Ampulla",FALSE
+"    31060750","BileDuct",FALSE
+"    31060750","Gallbladder",FALSE
+"    31060750","Neuroendocrine",FALSE
+"    31060750","Morphology",TRUE
+"    31060750","IHC",TRUE
+"    31060750","Molecular",FALSE
+"    31060750","Cytology",FALSE
+"    31060750","Staging",FALSE
+"    31060750","Preneoplastic",TRUE
+"    31060750","Microenvironment",FALSE
+"    31060750","SPN",FALSE
+"    31060750","AnalogueTumors",FALSE
+"    31060750","Pancreattis",FALSE
+"    31060750","Benign",FALSE
+"    31060750","ExperimentalAnimal",FALSE
+"    31060750","TechniquesMethods",FALSE
+"    31060750","Epidemiology",FALSE
+"    31060750","Screening",FALSE
+"    31060750","RiskFactors",FALSE
+"    31060750","SEER",FALSE
+"    31060750","Oncomine",FALSE
+"    31060750","TCGA",FALSE
+"    31060750","CaseReport",FALSE
+"    31060750","CaseSeries",FALSE
+"    31060750","Review",FALSE
+"    31060750","IOPN",FALSE
+"    31060750","IPMN",FALSE
+"    31060750","AJCCTNM",FALSE
+"    31078621","Pancreas",TRUE
+"    31078621","Ampulla",FALSE
+"    31078621","BileDuct",FALSE
+"    31078621","Gallbladder",FALSE
+"    31078621","Neuroendocrine",FALSE
+"    31078621","Morphology",FALSE
+"    31078621","IHC",FALSE
+"    31078621","Molecular",TRUE
+"    31078621","Cytology",FALSE
+"    31078621","Staging",FALSE
+"    31078621","Preneoplastic",FALSE
+"    31078621","Microenvironment",FALSE
+"    31078621","SPN",FALSE
+"    31078621","AnalogueTumors",FALSE
+"    31078621","Pancreattis",FALSE
+"    31078621","Benign",FALSE
+"    31078621","ExperimentalAnimal",TRUE
+"    31078621","TechniquesMethods",FALSE
+"    31078621","Epidemiology",FALSE
+"    31078621","Screening",FALSE
+"    31078621","RiskFactors",FALSE
+"    31078621","SEER",FALSE
+"    31078621","Oncomine",FALSE
+"    31078621","TCGA",FALSE
+"    31078621","CaseReport",FALSE
+"    31078621","CaseSeries",FALSE
+"    31078621","Review",FALSE
+"    31078621","IOPN",FALSE
+"    31078621","IPMN",FALSE
+"    31078621","AJCCTNM",FALSE
+"    31102094","Pancreas",FALSE
+"    31102094","Ampulla",FALSE
+"    31102094","BileDuct",FALSE
+"    31102094","Gallbladder",TRUE
+"    31102094","Neuroendocrine",TRUE
+"    31102094","Morphology",FALSE
+"    31102094","IHC",FALSE
+"    31102094","Molecular",FALSE
+"    31102094","Cytology",FALSE
+"    31102094","Staging",FALSE
+"    31102094","Preneoplastic",FALSE
+"    31102094","Microenvironment",FALSE
+"    31102094","SPN",FALSE
+"    31102094","AnalogueTumors",FALSE
+"    31102094","Pancreattis",FALSE
+"    31102094","Benign",FALSE
+"    31102094","ExperimentalAnimal",FALSE
+"    31102094","TechniquesMethods",FALSE
+"    31102094","Epidemiology",TRUE
+"    31102094","Screening",FALSE
+"    31102094","RiskFactors",FALSE
+"    31102094","SEER",FALSE
+"    31102094","Oncomine",FALSE
+"    31102094","TCGA",FALSE
+"    31102094","CaseReport",FALSE
+"    31102094","CaseSeries",FALSE
+"    31102094","Review",FALSE
+"    31102094","IOPN",FALSE
+"    31102094","IPMN",FALSE
+"    31102094","AJCCTNM",FALSE
+"    31068195","Pancreas",FALSE
+"    31068195","Ampulla",FALSE
+"    31068195","BileDuct",FALSE
+"    31068195","Gallbladder",TRUE
+"    31068195","Neuroendocrine",FALSE
+"    31068195","Morphology",TRUE
+"    31068195","IHC",TRUE
+"    31068195","Molecular",FALSE
+"    31068195","Cytology",FALSE
+"    31068195","Staging",FALSE
+"    31068195","Preneoplastic",FALSE
+"    31068195","Microenvironment",FALSE
+"    31068195","SPN",FALSE
+"    31068195","AnalogueTumors",FALSE
+"    31068195","Pancreattis",FALSE
+"    31068195","Benign",FALSE
+"    31068195","ExperimentalAnimal",FALSE
+"    31068195","TechniquesMethods",FALSE
+"    31068195","Epidemiology",FALSE
+"    31068195","Screening",FALSE
+"    31068195","RiskFactors",FALSE
+"    31068195","SEER",FALSE
+"    31068195","Oncomine",FALSE
+"    31068195","TCGA",FALSE
+"    31068195","CaseReport",FALSE
+"    31068195","CaseSeries",TRUE
+"    31068195","Review",FALSE
+"    31068195","IOPN",FALSE
+"    31068195","IPMN",FALSE
+"    31068195","AJCCTNM",FALSE
+"    31153779","Pancreas",TRUE
+"    31153779","Ampulla",FALSE
+"    31153779","BileDuct",FALSE
+"    31153779","Gallbladder",FALSE
+"    31153779","Neuroendocrine",FALSE
+"    31153779","Morphology",TRUE
+"    31153779","IHC",FALSE
+"    31153779","Molecular",FALSE
+"    31153779","Cytology",FALSE
+"    31153779","Staging",FALSE
+"    31153779","Preneoplastic",FALSE
+"    31153779","Microenvironment",FALSE
+"    31153779","SPN",FALSE
+"    31153779","AnalogueTumors",FALSE
+"    31153779","Pancreattis",FALSE
+"    31153779","Benign",TRUE
+"    31153779","ExperimentalAnimal",FALSE
+"    31153779","TechniquesMethods",FALSE
+"    31153779","Epidemiology",FALSE
+"    31153779","Screening",FALSE
+"    31153779","RiskFactors",FALSE
+"    31153779","SEER",FALSE
+"    31153779","Oncomine",FALSE
+"    31153779","TCGA",FALSE
+"    31153779","CaseReport",FALSE
+"    31153779","CaseSeries",TRUE
+"    31153779","Review",TRUE
+"    31153779","IOPN",FALSE
+"    31153779","IPMN",FALSE
+"    31153779","AJCCTNM",FALSE
+"    31068372","Pancreas",TRUE
+"    31068372","Ampulla",FALSE
+"    31068372","BileDuct",FALSE
+"    31068372","Gallbladder",FALSE
+"    31068372","Neuroendocrine",FALSE
+"    31068372","Morphology",FALSE
+"    31068372","IHC",FALSE
+"    31068372","Molecular",TRUE
+"    31068372","Cytology",FALSE
+"    31068372","Staging",FALSE
+"    31068372","Preneoplastic",FALSE
+"    31068372","Microenvironment",FALSE
+"    31068372","SPN",FALSE
+"    31068372","AnalogueTumors",FALSE
+"    31068372","Pancreattis",FALSE
+"    31068372","Benign",FALSE
+"    31068372","ExperimentalAnimal",FALSE
+"    31068372","TechniquesMethods",FALSE
+"    31068372","Epidemiology",FALSE
+"    31068372","Screening",FALSE
+"    31068372","RiskFactors",FALSE
+"    31068372","SEER",FALSE
+"    31068372","Oncomine",FALSE
+"    31068372","TCGA",FALSE
+"    31068372","CaseReport",FALSE
+"    31068372","CaseSeries",FALSE
+"    31068372","Review",FALSE
+"    31068372","IOPN",FALSE
+"    31068372","IPMN",FALSE
+"    31068372","AJCCTNM",FALSE
+"    31072844","Pancreas",TRUE
+"    31072844","Ampulla",FALSE
+"    31072844","BileDuct",FALSE
+"    31072844","Gallbladder",FALSE
+"    31072844","Neuroendocrine",FALSE
+"    31072844","Morphology",FALSE
+"    31072844","IHC",FALSE
+"    31072844","Molecular",FALSE
+"    31072844","Cytology",FALSE
+"    31072844","Staging",FALSE
+"    31072844","Preneoplastic",FALSE
+"    31072844","Microenvironment",TRUE
+"    31072844","SPN",FALSE
+"    31072844","AnalogueTumors",FALSE
+"    31072844","Pancreattis",FALSE
+"    31072844","Benign",FALSE
+"    31072844","ExperimentalAnimal",FALSE
+"    31072844","TechniquesMethods",FALSE
+"    31072844","Epidemiology",FALSE
+"    31072844","Screening",FALSE
+"    31072844","RiskFactors",FALSE
+"    31072844","SEER",FALSE
+"    31072844","Oncomine",FALSE
+"    31072844","TCGA",FALSE
+"    31072844","CaseReport",FALSE
+"    31072844","CaseSeries",FALSE
+"    31072844","Review",FALSE
+"    31072844","IOPN",FALSE
+"    31072844","IPMN",FALSE
+"    31072844","AJCCTNM",FALSE
+"    31074083","Pancreas",TRUE
+"    31074083","Ampulla",FALSE
+"    31074083","BileDuct",FALSE
+"    31074083","Gallbladder",FALSE
+"    31074083","Neuroendocrine",FALSE
+"    31074083","Morphology",FALSE
+"    31074083","IHC",FALSE
+"    31074083","Molecular",TRUE
+"    31074083","Cytology",FALSE
+"    31074083","Staging",FALSE
+"    31074083","Preneoplastic",FALSE
+"    31074083","Microenvironment",TRUE
+"    31074083","SPN",FALSE
+"    31074083","AnalogueTumors",FALSE
+"    31074083","Pancreattis",FALSE
+"    31074083","Benign",FALSE
+"    31074083","ExperimentalAnimal",TRUE
+"    31074083","TechniquesMethods",FALSE
+"    31074083","Epidemiology",FALSE
+"    31074083","Screening",FALSE
+"    31074083","RiskFactors",FALSE
+"    31074083","SEER",FALSE
+"    31074083","Oncomine",FALSE
+"    31074083","TCGA",FALSE
+"    31074083","CaseReport",FALSE
+"    31074083","CaseSeries",FALSE
+"    31074083","Review",FALSE
+"    31074083","IOPN",FALSE
+"    31074083","IPMN",FALSE
+"    31074083","AJCCTNM",FALSE
+"    31076405","Pancreas",TRUE
+"    31076405","Ampulla",FALSE
+"    31076405","BileDuct",FALSE
+"    31076405","Gallbladder",FALSE
+"    31076405","Neuroendocrine",FALSE
+"    31076405","Morphology",FALSE
+"    31076405","IHC",FALSE
+"    31076405","Molecular",FALSE
+"    31076405","Cytology",FALSE
+"    31076405","Staging",FALSE
+"    31076405","Preneoplastic",FALSE
+"    31076405","Microenvironment",TRUE
+"    31076405","SPN",FALSE
+"    31076405","AnalogueTumors",FALSE
+"    31076405","Pancreattis",FALSE
+"    31076405","Benign",FALSE
+"    31076405","ExperimentalAnimal",TRUE
+"    31076405","TechniquesMethods",FALSE
+"    31076405","Epidemiology",FALSE
+"    31076405","Screening",FALSE
+"    31076405","RiskFactors",FALSE
+"    31076405","SEER",FALSE
+"    31076405","Oncomine",FALSE
+"    31076405","TCGA",FALSE
+"    31076405","CaseReport",FALSE
+"    31076405","CaseSeries",FALSE
+"    31076405","Review",FALSE
+"    31076405","IOPN",FALSE
+"    31076405","IPMN",FALSE
+"    31076405","AJCCTNM",FALSE
+"    31077597","Pancreas",TRUE
+"    31077597","Ampulla",FALSE
+"    31077597","BileDuct",FALSE
+"    31077597","Gallbladder",FALSE
+"    31077597","Neuroendocrine",FALSE
+"    31077597","Morphology",TRUE
+"    31077597","IHC",FALSE
+"    31077597","Molecular",TRUE
+"    31077597","Cytology",FALSE
+"    31077597","Staging",FALSE
+"    31077597","Preneoplastic",TRUE
+"    31077597","Microenvironment",FALSE
+"    31077597","SPN",FALSE
+"    31077597","AnalogueTumors",FALSE
+"    31077597","Pancreattis",FALSE
+"    31077597","Benign",FALSE
+"    31077597","ExperimentalAnimal",FALSE
+"    31077597","TechniquesMethods",FALSE
+"    31077597","Epidemiology",FALSE
+"    31077597","Screening",FALSE
+"    31077597","RiskFactors",FALSE
+"    31077597","SEER",FALSE
+"    31077597","Oncomine",FALSE
+"    31077597","TCGA",FALSE
+"    31077597","CaseReport",FALSE
+"    31077597","CaseSeries",TRUE
+"    31077597","Review",FALSE
+"    31077597","IOPN",FALSE
+"    31077597","IPMN",FALSE
+"    31077597","AJCCTNM",FALSE
+"    31077609","Pancreas",TRUE
+"    31077609","Ampulla",FALSE
+"    31077609","BileDuct",FALSE
+"    31077609","Gallbladder",FALSE
+"    31077609","Neuroendocrine",TRUE
+"    31077609","Morphology",TRUE
+"    31077609","IHC",TRUE
+"    31077609","Molecular",FALSE
+"    31077609","Cytology",FALSE
+"    31077609","Staging",FALSE
+"    31077609","Preneoplastic",FALSE
+"    31077609","Microenvironment",FALSE
+"    31077609","SPN",FALSE
+"    31077609","AnalogueTumors",FALSE
+"    31077609","Pancreattis",FALSE
+"    31077609","Benign",FALSE
+"    31077609","ExperimentalAnimal",FALSE
+"    31077609","TechniquesMethods",FALSE
+"    31077609","Epidemiology",FALSE
+"    31077609","Screening",FALSE
+"    31077609","RiskFactors",FALSE
+"    31077609","SEER",FALSE
+"    31077609","Oncomine",FALSE
+"    31077609","TCGA",FALSE
+"    31077609","CaseReport",FALSE
+"    31077609","CaseSeries",FALSE
+"    31077609","Review",FALSE
+"    31077609","IOPN",FALSE
+"    31077609","IPMN",FALSE
+"    31077609","AJCCTNM",FALSE
+"    31077876","Pancreas",FALSE
+"    31077876","Ampulla",FALSE
+"    31077876","BileDuct",FALSE
+"    31077876","Gallbladder",TRUE
+"    31077876","Neuroendocrine",FALSE
+"    31077876","Morphology",TRUE
+"    31077876","IHC",FALSE
+"    31077876","Molecular",FALSE
+"    31077876","Cytology",FALSE
+"    31077876","Staging",FALSE
+"    31077876","Preneoplastic",TRUE
+"    31077876","Microenvironment",FALSE
+"    31077876","SPN",FALSE
+"    31077876","AnalogueTumors",FALSE
+"    31077876","Pancreattis",FALSE
+"    31077876","Benign",FALSE
+"    31077876","ExperimentalAnimal",FALSE
+"    31077876","TechniquesMethods",FALSE
+"    31077876","Epidemiology",FALSE
+"    31077876","Screening",FALSE
+"    31077876","RiskFactors",FALSE
+"    31077876","SEER",FALSE
+"    31077876","Oncomine",FALSE
+"    31077876","TCGA",FALSE
+"    31077876","CaseReport",FALSE
+"    31077876","CaseSeries",TRUE
+"    31077876","Review",FALSE
+"    31077876","IOPN",FALSE
+"    31077876","IPMN",FALSE
+"    31077876","AJCCTNM",FALSE
+"    31091206","Pancreas",TRUE
+"    31091206","Ampulla",FALSE
+"    31091206","BileDuct",FALSE
+"    31091206","Gallbladder",FALSE
+"    31091206","Neuroendocrine",TRUE
+"    31091206","Morphology",FALSE
+"    31091206","IHC",FALSE
+"    31091206","Molecular",FALSE
+"    31091206","Cytology",FALSE
+"    31091206","Staging",TRUE
+"    31091206","Preneoplastic",FALSE
+"    31091206","Microenvironment",FALSE
+"    31091206","SPN",FALSE
+"    31091206","AnalogueTumors",FALSE
+"    31091206","Pancreattis",FALSE
+"    31091206","Benign",FALSE
+"    31091206","ExperimentalAnimal",FALSE
+"    31091206","TechniquesMethods",FALSE
+"    31091206","Epidemiology",FALSE
+"    31091206","Screening",FALSE
+"    31091206","RiskFactors",FALSE
+"    31091206","SEER",FALSE
+"    31091206","Oncomine",FALSE
+"    31091206","TCGA",FALSE
+"    31091206","CaseReport",FALSE
+"    31091206","CaseSeries",TRUE
+"    31091206","Review",FALSE
+"    31091206","IOPN",FALSE
+"    31091206","IPMN",FALSE
+"    31091206","AJCCTNM",TRUE
+"    31166202","Pancreas",FALSE
+"    31166202","Ampulla",FALSE
+"    31166202","BileDuct",TRUE
+"    31166202","Gallbladder",FALSE
+"    31166202","Neuroendocrine",FALSE
+"    31166202","Morphology",TRUE
+"    31166202","IHC",TRUE
+"    31166202","Molecular",TRUE
+"    31166202","Cytology",FALSE
+"    31166202","Staging",FALSE
+"    31166202","Preneoplastic",TRUE
+"    31166202","Microenvironment",FALSE
+"    31166202","SPN",FALSE
+"    31166202","AnalogueTumors",FALSE
+"    31166202","Pancreattis",FALSE
+"    31166202","Benign",FALSE
+"    31166202","ExperimentalAnimal",FALSE
+"    31166202","TechniquesMethods",FALSE
+"    31166202","Epidemiology",FALSE
+"    31166202","Screening",FALSE
+"    31166202","RiskFactors",FALSE
+"    31166202","SEER",FALSE
+"    31166202","Oncomine",FALSE
+"    31166202","TCGA",FALSE
+"    31166202","CaseReport",FALSE
+"    31166202","CaseSeries",FALSE
+"    31166202","Review",FALSE
+"    31166202","IOPN",FALSE
+"    31166202","IPMN",FALSE
+"    31166202","AJCCTNM",FALSE
+"    31164372","Pancreas",TRUE
+"    31164372","Ampulla",FALSE
+"    31164372","BileDuct",FALSE
+"    31164372","Gallbladder",FALSE
+"    31164372","Neuroendocrine",FALSE
+"    31164372","Morphology",FALSE
+"    31164372","IHC",FALSE
+"    31164372","Molecular",TRUE
+"    31164372","Cytology",FALSE
+"    31164372","Staging",FALSE
+"    31164372","Preneoplastic",FALSE
+"    31164372","Microenvironment",FALSE
+"    31164372","SPN",FALSE
+"    31164372","AnalogueTumors",FALSE
+"    31164372","Pancreattis",FALSE
+"    31164372","Benign",FALSE
+"    31164372","ExperimentalAnimal",FALSE
+"    31164372","TechniquesMethods",FALSE
+"    31164372","Epidemiology",FALSE
+"    31164372","Screening",FALSE
+"    31164372","RiskFactors",FALSE
+"    31164372","SEER",FALSE
+"    31164372","Oncomine",FALSE
+"    31164372","TCGA",FALSE
+"    31164372","CaseReport",FALSE
+"    31164372","CaseSeries",FALSE
+"    31164372","Review",TRUE
+"    31164372","IOPN",FALSE
+"    31164372","IPMN",FALSE
+"    31164372","AJCCTNM",FALSE
+"    31150430","Pancreas",TRUE
+"    31150430","Ampulla",TRUE
+"    31150430","BileDuct",FALSE
+"    31150430","Gallbladder",FALSE
+"    31150430","Neuroendocrine",FALSE
+"    31150430","Morphology",FALSE
+"    31150430","IHC",FALSE
+"    31150430","Molecular",TRUE
+"    31150430","Cytology",FALSE
+"    31150430","Staging",FALSE
+"    31150430","Preneoplastic",FALSE
+"    31150430","Microenvironment",FALSE
+"    31150430","SPN",FALSE
+"    31150430","AnalogueTumors",FALSE
+"    31150430","Pancreattis",FALSE
+"    31150430","Benign",FALSE
+"    31150430","ExperimentalAnimal",FALSE
+"    31150430","TechniquesMethods",FALSE
+"    31150430","Epidemiology",FALSE
+"    31150430","Screening",FALSE
+"    31150430","RiskFactors",FALSE
+"    31150430","SEER",FALSE
+"    31150430","Oncomine",FALSE
+"    31150430","TCGA",FALSE
+"    31150430","CaseReport",FALSE
+"    31150430","CaseSeries",TRUE
+"    31150430","Review",FALSE
+"    31150430","IOPN",FALSE
+"    31150430","IPMN",FALSE
+"    31150430","AJCCTNM",FALSE
+"    31157963","Pancreas",TRUE
+"    31157963","Ampulla",FALSE
+"    31157963","BileDuct",FALSE
+"    31157963","Gallbladder",FALSE
+"    31157963","Neuroendocrine",FALSE
+"    31157963","Morphology",FALSE
+"    31157963","IHC",FALSE
+"    31157963","Molecular",TRUE
+"    31157963","Cytology",FALSE
+"    31157963","Staging",FALSE
+"    31157963","Preneoplastic",FALSE
+"    31157963","Microenvironment",FALSE
+"    31157963","SPN",FALSE
+"    31157963","AnalogueTumors",FALSE
+"    31157963","Pancreattis",FALSE
+"    31157963","Benign",FALSE
+"    31157963","ExperimentalAnimal",FALSE
+"    31157963","TechniquesMethods",FALSE
+"    31157963","Epidemiology",FALSE
+"    31157963","Screening",FALSE
+"    31157963","RiskFactors",FALSE
+"    31157963","SEER",FALSE
+"    31157963","Oncomine",FALSE
+"    31157963","TCGA",FALSE
+"    31157963","CaseReport",FALSE
+"    31157963","CaseSeries",TRUE
+"    31157963","Review",FALSE
+"    31157963","IOPN",FALSE
+"    31157963","IPMN",FALSE
+"    31157963","AJCCTNM",FALSE
+"    31155233","Pancreas",TRUE
+"    31155233","Ampulla",FALSE
+"    31155233","BileDuct",FALSE
+"    31155233","Gallbladder",FALSE
+"    31155233","Neuroendocrine",FALSE
+"    31155233","Morphology",FALSE
+"    31155233","IHC",FALSE
+"    31155233","Molecular",TRUE
+"    31155233","Cytology",FALSE
+"    31155233","Staging",FALSE
+"    31155233","Preneoplastic",FALSE
+"    31155233","Microenvironment",TRUE
+"    31155233","SPN",FALSE
+"    31155233","AnalogueTumors",FALSE
+"    31155233","Pancreattis",FALSE
+"    31155233","Benign",FALSE
+"    31155233","ExperimentalAnimal",FALSE
+"    31155233","TechniquesMethods",FALSE
+"    31155233","Epidemiology",FALSE
+"    31155233","Screening",FALSE
+"    31155233","RiskFactors",FALSE
+"    31155233","SEER",FALSE
+"    31155233","Oncomine",FALSE
+"    31155233","TCGA",FALSE
+"    31155233","CaseReport",FALSE
+"    31155233","CaseSeries",TRUE
+"    31155233","Review",FALSE
+"    31155233","IOPN",FALSE
+"    31155233","IPMN",FALSE
+"    31155233","AJCCTNM",FALSE
+"    31091218","Pancreas",TRUE
+"    31091218","Ampulla",FALSE
+"    31091218","BileDuct",FALSE
+"    31091218","Gallbladder",FALSE
+"    31091218","Neuroendocrine",FALSE
+"    31091218","Morphology",FALSE
+"    31091218","IHC",FALSE
+"    31091218","Molecular",FALSE
+"    31091218","Cytology",FALSE
+"    31091218","Staging",FALSE
+"    31091218","Preneoplastic",TRUE
+"    31091218","Microenvironment",FALSE
+"    31091218","SPN",FALSE
+"    31091218","AnalogueTumors",FALSE
+"    31091218","Pancreattis",FALSE
+"    31091218","Benign",FALSE
+"    31091218","ExperimentalAnimal",FALSE
+"    31091218","TechniquesMethods",FALSE
+"    31091218","Epidemiology",FALSE
+"    31091218","Screening",TRUE
+"    31091218","RiskFactors",TRUE
+"    31091218","SEER",FALSE
+"    31091218","Oncomine",FALSE
+"    31091218","TCGA",FALSE
+"    31091218","CaseReport",FALSE
+"    31091218","CaseSeries",TRUE
+"    31091218","Review",FALSE
+"    31091218","IOPN",FALSE
+"    31091218","IPMN",FALSE
+"    31091218","AJCCTNM",FALSE
+"    31091216","Pancreas",TRUE
+"    31091216","Ampulla",FALSE
+"    31091216","BileDuct",FALSE
+"    31091216","Gallbladder",FALSE
+"    31091216","Neuroendocrine",FALSE
+"    31091216","Morphology",TRUE
+"    31091216","IHC",FALSE
+"    31091216","Molecular",FALSE
+"    31091216","Cytology",TRUE
+"    31091216","Staging",FALSE
+"    31091216","Preneoplastic",FALSE
+"    31091216","Microenvironment",FALSE
+"    31091216","SPN",FALSE
+"    31091216","AnalogueTumors",FALSE
+"    31091216","Pancreattis",FALSE
+"    31091216","Benign",FALSE
+"    31091216","ExperimentalAnimal",FALSE
+"    31091216","TechniquesMethods",TRUE
+"    31091216","Epidemiology",FALSE
+"    31091216","Screening",FALSE
+"    31091216","RiskFactors",FALSE
+"    31091216","SEER",FALSE
+"    31091216","Oncomine",FALSE
+"    31091216","TCGA",FALSE
+"    31091216","CaseReport",FALSE
+"    31091216","CaseSeries",FALSE
+"    31091216","Review",FALSE
+"    31091216","IOPN",FALSE
+"    31091216","IPMN",FALSE
+"    31091216","AJCCTNM",FALSE
+"    31081949","Pancreas",FALSE
+"    31081949","Ampulla",FALSE
+"    31081949","BileDuct",TRUE
+"    31081949","Gallbladder",FALSE
+"    31081949","Neuroendocrine",FALSE
+"    31081949","Morphology",TRUE
+"    31081949","IHC",TRUE
+"    31081949","Molecular",FALSE
+"    31081949","Cytology",FALSE
+"    31081949","Staging",FALSE
+"    31081949","Preneoplastic",FALSE
+"    31081949","Microenvironment",FALSE
+"    31081949","SPN",FALSE
+"    31081949","AnalogueTumors",FALSE
+"    31081949","Pancreattis",FALSE
+"    31081949","Benign",FALSE
+"    31081949","ExperimentalAnimal",FALSE
+"    31081949","TechniquesMethods",TRUE
+"    31081949","Epidemiology",FALSE
+"    31081949","Screening",FALSE
+"    31081949","RiskFactors",FALSE
+"    31081949","SEER",FALSE
+"    31081949","Oncomine",FALSE
+"    31081949","TCGA",FALSE
+"    31081949","CaseReport",FALSE
+"    31081949","CaseSeries",TRUE
+"    31081949","Review",FALSE
+"    31081949","IOPN",FALSE
+"    31081949","IPMN",FALSE
+"    31081949","AJCCTNM",FALSE
+"    31136102","Pancreas",TRUE
+"    31136102","Ampulla",FALSE
+"    31136102","BileDuct",FALSE
+"    31136102","Gallbladder",FALSE
+"    31136102","Neuroendocrine",TRUE
+"    31136102","Morphology",FALSE
+"    31136102","IHC",FALSE
+"    31136102","Molecular",TRUE
+"    31136102","Cytology",FALSE
+"    31136102","Staging",FALSE
+"    31136102","Preneoplastic",FALSE
+"    31136102","Microenvironment",TRUE
+"    31136102","SPN",FALSE
+"    31136102","AnalogueTumors",FALSE
+"    31136102","Pancreattis",FALSE
+"    31136102","Benign",FALSE
+"    31136102","ExperimentalAnimal",FALSE
+"    31136102","TechniquesMethods",FALSE
+"    31136102","Epidemiology",FALSE
+"    31136102","Screening",FALSE
+"    31136102","RiskFactors",FALSE
+"    31136102","SEER",FALSE
+"    31136102","Oncomine",FALSE
+"    31136102","TCGA",FALSE
+"    31136102","CaseReport",FALSE
+"    31136102","CaseSeries",FALSE
+"    31136102","Review",FALSE
+"    31136102","IOPN",FALSE
+"    31136102","IPMN",FALSE
+"    31136102","AJCCTNM",FALSE
+"    31117106","Pancreas",TRUE
+"    31117106","Ampulla",FALSE
+"    31117106","BileDuct",FALSE
+"    31117106","Gallbladder",FALSE
+"    31117106","Neuroendocrine",TRUE
+"    31117106","Morphology",TRUE
+"    31117106","IHC",FALSE
+"    31117106","Molecular",FALSE
+"    31117106","Cytology",FALSE
+"    31117106","Staging",TRUE
+"    31117106","Preneoplastic",FALSE
+"    31117106","Microenvironment",FALSE
+"    31117106","SPN",FALSE
+"    31117106","AnalogueTumors",FALSE
+"    31117106","Pancreattis",FALSE
+"    31117106","Benign",FALSE
+"    31117106","ExperimentalAnimal",FALSE
+"    31117106","TechniquesMethods",TRUE
+"    31117106","Epidemiology",TRUE
+"    31117106","Screening",TRUE
+"    31117106","RiskFactors",FALSE
+"    31117106","SEER",FALSE
+"    31117106","Oncomine",FALSE
+"    31117106","TCGA",FALSE
+"    31117106","CaseReport",FALSE
+"    31117106","CaseSeries",TRUE
+"    31117106","Review",FALSE
+"    31117106","IOPN",FALSE
+"    31117106","IPMN",FALSE
+"    31117106","AJCCTNM",FALSE
+"    31127946","Pancreas",FALSE
+"    31127946","Ampulla",FALSE
+"    31127946","BileDuct",TRUE
+"    31127946","Gallbladder",FALSE
+"    31127946","Neuroendocrine",FALSE
+"    31127946","Morphology",FALSE
+"    31127946","IHC",FALSE
+"    31127946","Molecular",FALSE
+"    31127946","Cytology",FALSE
+"    31127946","Staging",FALSE
+"    31127946","Preneoplastic",FALSE
+"    31127946","Microenvironment",FALSE
+"    31127946","SPN",FALSE
+"    31127946","AnalogueTumors",FALSE
+"    31127946","Pancreattis",FALSE
+"    31127946","Benign",FALSE
+"    31127946","ExperimentalAnimal",FALSE
+"    31127946","TechniquesMethods",FALSE
+"    31127946","Epidemiology",TRUE
+"    31127946","Screening",TRUE
+"    31127946","RiskFactors",TRUE
+"    31127946","SEER",FALSE
+"    31127946","Oncomine",FALSE
+"    31127946","TCGA",FALSE
+"    31127946","CaseReport",FALSE
+"    31127946","CaseSeries",FALSE
+"    31127946","Review",FALSE
+"    31127946","IOPN",FALSE
+"    31127946","IPMN",FALSE
+"    31127946","AJCCTNM",FALSE
+"    31135488","Pancreas",TRUE
+"    31135488","Ampulla",FALSE
+"    31135488","BileDuct",FALSE
+"    31135488","Gallbladder",FALSE
+"    31135488","Neuroendocrine",FALSE
+"    31135488","Morphology",TRUE
+"    31135488","IHC",TRUE
+"    31135488","Molecular",FALSE
+"    31135488","Cytology",FALSE
+"    31135488","Staging",FALSE
+"    31135488","Preneoplastic",FALSE
+"    31135488","Microenvironment",FALSE
+"    31135488","SPN",FALSE
+"    31135488","AnalogueTumors",FALSE
+"    31135488","Pancreattis",TRUE
+"    31135488","Benign",TRUE
+"    31135488","ExperimentalAnimal",FALSE
+"    31135488","TechniquesMethods",FALSE
+"    31135488","Epidemiology",FALSE
+"    31135488","Screening",FALSE
+"    31135488","RiskFactors",FALSE
+"    31135488","SEER",FALSE
+"    31135488","Oncomine",FALSE
+"    31135488","TCGA",FALSE
+"    31135488","CaseReport",FALSE
+"    31135488","CaseSeries",FALSE
+"    31135488","Review",FALSE
+"    31135488","IOPN",FALSE
+"    31135488","IPMN",FALSE
+"    31135488","AJCCTNM",FALSE
+"    31121195","Pancreas",FALSE
+"    31121195","Ampulla",FALSE
+"    31121195","BileDuct",TRUE
+"    31121195","Gallbladder",FALSE
+"    31121195","Neuroendocrine",FALSE
+"    31121195","Morphology",TRUE
+"    31121195","IHC",TRUE
+"    31121195","Molecular",FALSE
+"    31121195","Cytology",FALSE
+"    31121195","Staging",FALSE
+"    31121195","Preneoplastic",FALSE
+"    31121195","Microenvironment",FALSE
+"    31121195","SPN",FALSE
+"    31121195","AnalogueTumors",FALSE
+"    31121195","Pancreattis",FALSE
+"    31121195","Benign",FALSE
+"    31121195","ExperimentalAnimal",FALSE
+"    31121195","TechniquesMethods",FALSE
+"    31121195","Epidemiology",FALSE
+"    31121195","Screening",FALSE
+"    31121195","RiskFactors",FALSE
+"    31121195","SEER",FALSE
+"    31121195","Oncomine",FALSE
+"    31121195","TCGA",FALSE
+"    31121195","CaseReport",FALSE
+"    31121195","CaseSeries",TRUE
+"    31121195","Review",FALSE
+"    31121195","IOPN",FALSE
+"    31121195","IPMN",FALSE
+"    31121195","AJCCTNM",FALSE
+"    31142500","Pancreas",TRUE
+"    31142500","Ampulla",FALSE
+"    31142500","BileDuct",FALSE
+"    31142500","Gallbladder",FALSE
+"    31142500","Neuroendocrine",FALSE
+"    31142500","Morphology",FALSE
+"    31142500","IHC",FALSE
+"    31142500","Molecular",TRUE
+"    31142500","Cytology",FALSE
+"    31142500","Staging",FALSE
+"    31142500","Preneoplastic",FALSE
+"    31142500","Microenvironment",FALSE
+"    31142500","SPN",FALSE
+"    31142500","AnalogueTumors",FALSE
+"    31142500","Pancreattis",FALSE
+"    31142500","Benign",FALSE
+"    31142500","ExperimentalAnimal",FALSE
+"    31142500","TechniquesMethods",TRUE
+"    31142500","Epidemiology",FALSE
+"    31142500","Screening",FALSE
+"    31142500","RiskFactors",FALSE
+"    31142500","SEER",FALSE
+"    31142500","Oncomine",FALSE
+"    31142500","TCGA",FALSE
+"    31142500","CaseReport",FALSE
+"    31142500","CaseSeries",TRUE
+"    31142500","Review",FALSE
+"    31142500","IOPN",FALSE
+"    31142500","IPMN",FALSE
+"    31142500","AJCCTNM",FALSE
+"    31121193","Pancreas",TRUE
+"    31121193","Ampulla",FALSE
+"    31121193","BileDuct",FALSE
+"    31121193","Gallbladder",FALSE
+"    31121193","Neuroendocrine",FALSE
+"    31121193","Morphology",TRUE
+"    31121193","IHC",TRUE
+"    31121193","Molecular",FALSE
+"    31121193","Cytology",FALSE
+"    31121193","Staging",FALSE
+"    31121193","Preneoplastic",FALSE
+"    31121193","Microenvironment",TRUE
+"    31121193","SPN",FALSE
+"    31121193","AnalogueTumors",FALSE
+"    31121193","Pancreattis",FALSE
+"    31121193","Benign",FALSE
+"    31121193","ExperimentalAnimal",FALSE
+"    31121193","TechniquesMethods",FALSE
+"    31121193","Epidemiology",FALSE
+"    31121193","Screening",FALSE
+"    31121193","RiskFactors",FALSE
+"    31121193","SEER",FALSE
+"    31121193","Oncomine",FALSE
+"    31121193","TCGA",FALSE
+"    31121193","CaseReport",FALSE
+"    31121193","CaseSeries",TRUE
+"    31121193","Review",FALSE
+"    31121193","IOPN",FALSE
+"    31121193","IPMN",FALSE
+"    31121193","AJCCTNM",FALSE
+"    31174978","Pancreas",TRUE
+"    31174978","Ampulla",FALSE
+"    31174978","BileDuct",FALSE
+"    31174978","Gallbladder",FALSE
+"    31174978","Neuroendocrine",FALSE
+"    31174978","Morphology",TRUE
+"    31174978","IHC",FALSE
+"    31174978","Molecular",FALSE
+"    31174978","Cytology",FALSE
+"    31174978","Staging",TRUE
+"    31174978","Preneoplastic",FALSE
+"    31174978","Microenvironment",FALSE
+"    31174978","SPN",FALSE
+"    31174978","AnalogueTumors",FALSE
+"    31174978","Pancreattis",FALSE
+"    31174978","Benign",FALSE
+"    31174978","ExperimentalAnimal",FALSE
+"    31174978","TechniquesMethods",FALSE
+"    31174978","Epidemiology",FALSE
+"    31174978","Screening",FALSE
+"    31174978","RiskFactors",FALSE
+"    31174978","SEER",FALSE
+"    31174978","Oncomine",FALSE
+"    31174978","TCGA",FALSE
+"    31174978","CaseReport",FALSE
+"    31174978","CaseSeries",TRUE
+"    31174978","Review",FALSE
+"    31174978","IOPN",FALSE
+"    31174978","IPMN",FALSE
+"    31174978","AJCCTNM",TRUE
+"    31175863","Pancreas",TRUE
+"    31175863","Ampulla",FALSE
+"    31175863","BileDuct",FALSE
+"    31175863","Gallbladder",FALSE
+"    31175863","Neuroendocrine",FALSE
+"    31175863","Morphology",FALSE
+"    31175863","IHC",FALSE
+"    31175863","Molecular",TRUE
+"    31175863","Cytology",TRUE
+"    31175863","Staging",FALSE
+"    31175863","Preneoplastic",TRUE
+"    31175863","Microenvironment",FALSE
+"    31175863","SPN",FALSE
+"    31175863","AnalogueTumors",FALSE
+"    31175863","Pancreattis",FALSE
+"    31175863","Benign",FALSE
+"    31175863","ExperimentalAnimal",FALSE
+"    31175863","TechniquesMethods",FALSE
+"    31175863","Epidemiology",FALSE
+"    31175863","Screening",FALSE
+"    31175863","RiskFactors",FALSE
+"    31175863","SEER",FALSE
+"    31175863","Oncomine",FALSE
+"    31175863","TCGA",FALSE
+"    31175863","CaseReport",FALSE
+"    31175863","CaseSeries",TRUE
+"    31175863","Review",FALSE
+"    31175863","IOPN",FALSE
+"    31175863","IPMN",FALSE
+"    31175863","AJCCTNM",FALSE
+"    31175866","Pancreas",TRUE
+"    31175866","Ampulla",FALSE
+"    31175866","BileDuct",FALSE
+"    31175866","Gallbladder",FALSE
+"    31175866","Neuroendocrine",FALSE
+"    31175866","Morphology",FALSE
+"    31175866","IHC",FALSE
+"    31175866","Molecular",TRUE
+"    31175866","Cytology",FALSE
+"    31175866","Staging",FALSE
+"    31175866","Preneoplastic",TRUE
+"    31175866","Microenvironment",FALSE
+"    31175866","SPN",FALSE
+"    31175866","AnalogueTumors",FALSE
+"    31175866","Pancreattis",FALSE
+"    31175866","Benign",FALSE
+"    31175866","ExperimentalAnimal",FALSE
+"    31175866","TechniquesMethods",FALSE
+"    31175866","Epidemiology",FALSE
+"    31175866","Screening",FALSE
+"    31175866","RiskFactors",FALSE
+"    31175866","SEER",FALSE
+"    31175866","Oncomine",FALSE
+"    31175866","TCGA",FALSE
+"    31175866","CaseReport",FALSE
+"    31175866","CaseSeries",TRUE
+"    31175866","Review",FALSE
+"    31175866","IOPN",FALSE
+"    31175866","IPMN",TRUE
+"    31175866","AJCCTNM",FALSE
+"    31175918","Pancreas",TRUE
+"    31175918","Ampulla",FALSE
+"    31175918","BileDuct",FALSE
+"    31175918","Gallbladder",FALSE
+"    31175918","Neuroendocrine",FALSE
+"    31175918","Morphology",FALSE
+"    31175918","IHC",FALSE
+"    31175918","Molecular",TRUE
+"    31175918","Cytology",FALSE
+"    31175918","Staging",FALSE
+"    31175918","Preneoplastic",TRUE
+"    31175918","Microenvironment",FALSE
+"    31175918","SPN",FALSE
+"    31175918","AnalogueTumors",FALSE
+"    31175918","Pancreattis",FALSE
+"    31175918","Benign",FALSE
+"    31175918","ExperimentalAnimal",FALSE
+"    31175918","TechniquesMethods",FALSE
+"    31175918","Epidemiology",FALSE
+"    31175918","Screening",FALSE
+"    31175918","RiskFactors",FALSE
+"    31175918","SEER",FALSE
+"    31175918","Oncomine",FALSE
+"    31175918","TCGA",FALSE
+"    31175918","CaseReport",FALSE
+"    31175918","CaseSeries",TRUE
+"    31175918","Review",FALSE
+"    31175918","IOPN",FALSE
+"    31175918","IPMN",TRUE
+"    31175918","AJCCTNM",FALSE
+"31177317","Pancreas",FALSE
+"31177317","Ampulla",FALSE
+"31177317","BileDuct",FALSE
+"31177317","Gallbladder",TRUE
+"31177317","Neuroendocrine",FALSE
+"31177317","Morphology",TRUE
+"31177317","IHC",TRUE
+"31177317","Molecular",FALSE
+"31177317","Cytology",FALSE
+"31177317","Staging",FALSE
+"31177317","Preneoplastic",FALSE
+"31177317","Microenvironment",FALSE
+"31177317","SPN",FALSE
+"31177317","AnalogueTumors",FALSE
+"31177317","Pancreattis",FALSE
+"31177317","Benign",FALSE
+"31177317","ExperimentalAnimal",FALSE
+"31177317","TechniquesMethods",FALSE
+"31177317","Epidemiology",FALSE
+"31177317","Screening",FALSE
+"31177317","RiskFactors",FALSE
+"31177317","SEER",FALSE
+"31177317","Oncomine",FALSE
+"31177317","TCGA",FALSE
+"31177317","CaseReport",FALSE
+"31177317","CaseSeries",TRUE
+"31177317","Review",FALSE
+"31177317","IOPN",FALSE
+"31177317","IPMN",FALSE
+"31177317","AJCCTNM",FALSE
+"    30683911","Pancreas",TRUE
+"    30683911","Ampulla",FALSE
+"    30683911","BileDuct",FALSE
+"    30683911","Gallbladder",FALSE
+"    30683911","Neuroendocrine",FALSE
+"    30683911","Morphology",TRUE
+"    30683911","IHC",TRUE
+"    30683911","Molecular",TRUE
+"    30683911","Cytology",FALSE
+"    30683911","Staging",FALSE
+"    30683911","Preneoplastic",FALSE
+"    30683911","Microenvironment",TRUE
+"    30683911","SPN",FALSE
+"    30683911","AnalogueTumors",FALSE
+"    30683911","Pancreattis",FALSE
+"    30683911","Benign",FALSE
+"    30683911","ExperimentalAnimal",FALSE
+"    30683911","TechniquesMethods",FALSE
+"    30683911","Epidemiology",FALSE
+"    30683911","Screening",FALSE
+"    30683911","RiskFactors",FALSE
+"    30683911","SEER",FALSE
+"    30683911","Oncomine",FALSE
+"    30683911","TCGA",FALSE
+"    30683911","CaseReport",FALSE
+"    30683911","CaseSeries",TRUE
+"    30683911","Review",FALSE
+"    30683911","IOPN",FALSE
+"    30683911","IPMN",FALSE
+"    30683911","AJCCTNM",FALSE
+"31201285","Pancreas",TRUE
+"31201285","Ampulla",FALSE
+"31201285","BileDuct",FALSE
+"31201285","Gallbladder",FALSE
+"31201285","Neuroendocrine",FALSE
+"31201285","Morphology",TRUE
+"31201285","IHC",FALSE
+"31201285","Molecular",TRUE
+"31201285","Cytology",FALSE
+"31201285","Staging",FALSE
+"31201285","Preneoplastic",FALSE
+"31201285","Microenvironment",FALSE
+"31201285","SPN",FALSE
+"31201285","AnalogueTumors",FALSE
+"31201285","Pancreattis",FALSE
+"31201285","Benign",FALSE
+"31201285","ExperimentalAnimal",FALSE
+"31201285","TechniquesMethods",FALSE
+"31201285","Epidemiology",FALSE
+"31201285","Screening",FALSE
+"31201285","RiskFactors",FALSE
+"31201285","SEER",FALSE
+"31201285","Oncomine",FALSE
+"31201285","TCGA",FALSE
+"31201285","CaseReport",FALSE
+"31201285","CaseSeries",TRUE
+"31201285","Review",FALSE
+"31201285","IOPN",FALSE
+"31201285","IPMN",FALSE
+"31201285","AJCCTNM",FALSE
+"    30417984","Pancreas",TRUE
+"    30417984","Ampulla",FALSE
+"    30417984","BileDuct",FALSE
+"    30417984","Gallbladder",FALSE
+"    30417984","Neuroendocrine",FALSE
+"    30417984","Morphology",TRUE
+"    30417984","IHC",FALSE
+"    30417984","Molecular",FALSE
+"    30417984","Cytology",TRUE
+"    30417984","Staging",FALSE
+"    30417984","Preneoplastic",FALSE
+"    30417984","Microenvironment",FALSE
+"    30417984","SPN",FALSE
+"    30417984","AnalogueTumors",FALSE
+"    30417984","Pancreattis",FALSE
+"    30417984","Benign",FALSE
+"    30417984","ExperimentalAnimal",FALSE
+"    30417984","TechniquesMethods",FALSE
+"    30417984","Epidemiology",FALSE
+"    30417984","Screening",FALSE
+"    30417984","RiskFactors",FALSE
+"    30417984","SEER",FALSE
+"    30417984","Oncomine",FALSE
+"    30417984","TCGA",FALSE
+"    30417984","CaseReport",FALSE
+"    30417984","CaseSeries",TRUE
+"    30417984","Review",FALSE
+"    30417984","IOPN",FALSE
+"    30417984","IPMN",FALSE
+"    30417984","AJCCTNM",FALSE
+"    31206465","Pancreas",TRUE
+"    31206465","Ampulla",FALSE
+"    31206465","BileDuct",FALSE
+"    31206465","Gallbladder",FALSE
+"    31206465","Neuroendocrine",FALSE
+"    31206465","Morphology",FALSE
+"    31206465","IHC",FALSE
+"    31206465","Molecular",TRUE
+"    31206465","Cytology",FALSE
+"    31206465","Staging",FALSE
+"    31206465","Preneoplastic",FALSE
+"    31206465","Microenvironment",FALSE
+"    31206465","SPN",FALSE
+"    31206465","AnalogueTumors",FALSE
+"    31206465","Pancreattis",FALSE
+"    31206465","Benign",FALSE
+"    31206465","ExperimentalAnimal",FALSE
+"    31206465","TechniquesMethods",TRUE
+"    31206465","Epidemiology",FALSE
+"    31206465","Screening",FALSE
+"    31206465","RiskFactors",FALSE
+"    31206465","SEER",FALSE
+"    31206465","Oncomine",FALSE
+"    31206465","TCGA",FALSE
+"    31206465","CaseReport",FALSE
+"    31206465","CaseSeries",FALSE
+"    31206465","Review",TRUE
+"    31206465","IOPN",FALSE
+"    31206465","IPMN",FALSE
+"    31206465","AJCCTNM",FALSE
+"    31206466","Pancreas",TRUE
+"    31206466","Ampulla",FALSE
+"    31206466","BileDuct",FALSE
+"    31206466","Gallbladder",FALSE
+"    31206466","Neuroendocrine",FALSE
+"    31206466","Morphology",FALSE
+"    31206466","IHC",FALSE
+"    31206466","Molecular",TRUE
+"    31206466","Cytology",TRUE
+"    31206466","Staging",FALSE
+"    31206466","Preneoplastic",FALSE
+"    31206466","Microenvironment",FALSE
+"    31206466","SPN",FALSE
+"    31206466","AnalogueTumors",FALSE
+"    31206466","Pancreattis",FALSE
+"    31206466","Benign",FALSE
+"    31206466","ExperimentalAnimal",FALSE
+"    31206466","TechniquesMethods",FALSE
+"    31206466","Epidemiology",FALSE
+"    31206466","Screening",FALSE
+"    31206466","RiskFactors",FALSE
+"    31206466","SEER",FALSE
+"    31206466","Oncomine",FALSE
+"    31206466","TCGA",FALSE
+"    31206466","CaseReport",FALSE
+"    31206466","CaseSeries",FALSE
+"    31206466","Review",TRUE
+"    31206466","IOPN",FALSE
+"    31206466","IPMN",FALSE
+"    31206466","AJCCTNM",FALSE
+"30927194","Pancreas",FALSE
+"30927194","Ampulla",FALSE
+"30927194","BileDuct",TRUE
+"30927194","Gallbladder",FALSE
+"30927194","Neuroendocrine",FALSE
+"30927194","Morphology",FALSE
+"30927194","IHC",FALSE
+"30927194","Molecular",FALSE
+"30927194","Cytology",FALSE
+"30927194","Staging",TRUE
+"30927194","Preneoplastic",FALSE
+"30927194","Microenvironment",FALSE
+"30927194","SPN",FALSE
+"30927194","AnalogueTumors",FALSE
+"30927194","Pancreattis",FALSE
+"30927194","Benign",FALSE
+"30927194","ExperimentalAnimal",FALSE
+"30927194","TechniquesMethods",FALSE
+"30927194","Epidemiology",FALSE
+"30927194","Screening",FALSE
+"30927194","RiskFactors",FALSE
+"30927194","SEER",FALSE
+"30927194","Oncomine",FALSE
+"30927194","TCGA",FALSE
+"30927194","CaseReport",FALSE
+"30927194","CaseSeries",TRUE
+"30927194","Review",FALSE
+"30927194","IOPN",FALSE
+"30927194","IPMN",FALSE
+"30927194","AJCCTNM",FALSE
+"28424987","Pancreas",FALSE
+"28424987","Ampulla",FALSE
+"28424987","BileDuct",TRUE
+"28424987","Gallbladder",FALSE
+"28424987","Neuroendocrine",FALSE
+"28424987","Morphology",FALSE
+"28424987","IHC",FALSE
+"28424987","Molecular",FALSE
+"28424987","Cytology",FALSE
+"28424987","Staging",TRUE
+"28424987","Preneoplastic",FALSE
+"28424987","Microenvironment",FALSE
+"28424987","SPN",FALSE
+"28424987","AnalogueTumors",FALSE
+"28424987","Pancreattis",FALSE
+"28424987","Benign",FALSE
+"28424987","ExperimentalAnimal",FALSE
+"28424987","TechniquesMethods",FALSE
+"28424987","Epidemiology",FALSE
+"28424987","Screening",FALSE
+"28424987","RiskFactors",FALSE
+"28424987","SEER",FALSE
+"28424987","Oncomine",FALSE
+"28424987","TCGA",FALSE
+"28424987","CaseReport",FALSE
+"28424987","CaseSeries",TRUE
+"28424987","Review",FALSE
+"28424987","IOPN",FALSE
+"28424987","IPMN",FALSE
+"28424987","AJCCTNM",FALSE
+"31054158","Pancreas",TRUE
+"31054158","Ampulla",FALSE
+"31054158","BileDuct",FALSE
+"31054158","Gallbladder",FALSE
+"31054158","Neuroendocrine",FALSE
+"31054158","Morphology",TRUE
+"31054158","IHC",TRUE
+"31054158","Molecular",FALSE
+"31054158","Cytology",FALSE
+"31054158","Staging",FALSE
+"31054158","Preneoplastic",FALSE
+"31054158","Microenvironment",FALSE
+"31054158","SPN",FALSE
+"31054158","AnalogueTumors",FALSE
+"31054158","Pancreattis",FALSE
+"31054158","Benign",FALSE
+"31054158","ExperimentalAnimal",FALSE
+"31054158","TechniquesMethods",TRUE
+"31054158","Epidemiology",FALSE
+"31054158","Screening",FALSE
+"31054158","RiskFactors",FALSE
+"31054158","SEER",FALSE
+"31054158","Oncomine",FALSE
+"31054158","TCGA",FALSE
+"31054158","CaseReport",FALSE
+"31054158","CaseSeries",TRUE
+"31054158","Review",FALSE
+"31054158","IOPN",FALSE
+"31054158","IPMN",FALSE
+"31054158","AJCCTNM",FALSE
+"    31209654","Pancreas",TRUE
+"    31209654","Ampulla",FALSE
+"    31209654","BileDuct",FALSE
+"    31209654","Gallbladder",FALSE
+"    31209654","Neuroendocrine",FALSE
+"    31209654","Morphology",TRUE
+"    31209654","IHC",FALSE
+"    31209654","Molecular",FALSE
+"    31209654","Cytology",FALSE
+"    31209654","Staging",FALSE
+"    31209654","Preneoplastic",FALSE
+"    31209654","Microenvironment",FALSE
+"    31209654","SPN",FALSE
+"    31209654","AnalogueTumors",FALSE
+"    31209654","Pancreattis",FALSE
+"    31209654","Benign",FALSE
+"    31209654","ExperimentalAnimal",FALSE
+"    31209654","TechniquesMethods",FALSE
+"    31209654","Epidemiology",FALSE
+"    31209654","Screening",FALSE
+"    31209654","RiskFactors",FALSE
+"    31209654","SEER",FALSE
+"    31209654","Oncomine",FALSE
+"    31209654","TCGA",FALSE
+"    31209654","CaseReport",FALSE
+"    31209654","CaseSeries",FALSE
+"    31209654","Review",TRUE
+"    31209654","IOPN",FALSE
+"    31209654","IPMN",FALSE
+"    31209654","AJCCTNM",FALSE
+"    31189015","Pancreas",FALSE
+"    31189015","Ampulla",FALSE
+"    31189015","BileDuct",FALSE
+"    31189015","Gallbladder",TRUE
+"    31189015","Neuroendocrine",FALSE
+"    31189015","Morphology",FALSE
+"    31189015","IHC",FALSE
+"    31189015","Molecular",FALSE
+"    31189015","Cytology",FALSE
+"    31189015","Staging",FALSE
+"    31189015","Preneoplastic",FALSE
+"    31189015","Microenvironment",FALSE
+"    31189015","SPN",FALSE
+"    31189015","AnalogueTumors",FALSE
+"    31189015","Pancreattis",FALSE
+"    31189015","Benign",TRUE
+"    31189015","ExperimentalAnimal",FALSE
+"    31189015","TechniquesMethods",FALSE
+"    31189015","Epidemiology",FALSE
+"    31189015","Screening",FALSE
+"    31189015","RiskFactors",FALSE
+"    31189015","SEER",FALSE
+"    31189015","Oncomine",FALSE
+"    31189015","TCGA",FALSE
+"    31189015","CaseReport",FALSE
+"    31189015","CaseSeries",FALSE
+"    31189015","Review",FALSE
+"    31189015","IOPN",FALSE
+"    31189015","IPMN",FALSE
+"    31189015","AJCCTNM",FALSE
+"    31300257","Pancreas",TRUE
+"    31300257","Ampulla",FALSE
+"    31300257","BileDuct",FALSE
+"    31300257","Gallbladder",FALSE
+"    31300257","Neuroendocrine",FALSE
+"    31300257","Morphology",TRUE
+"    31300257","IHC",TRUE
+"    31300257","Molecular",FALSE
+"    31300257","Cytology",FALSE
+"    31300257","Staging",FALSE
+"    31300257","Preneoplastic",FALSE
+"    31300257","Microenvironment",FALSE
+"    31300257","SPN",FALSE
+"    31300257","AnalogueTumors",FALSE
+"    31300257","Pancreattis",FALSE
+"    31300257","Benign",FALSE
+"    31300257","ExperimentalAnimal",FALSE
+"    31300257","TechniquesMethods",FALSE
+"    31300257","Epidemiology",FALSE
+"    31300257","Screening",FALSE
+"    31300257","RiskFactors",FALSE
+"    31300257","SEER",FALSE
+"    31300257","Oncomine",FALSE
+"    31300257","TCGA",FALSE
+"    31300257","CaseReport",FALSE
+"    31300257","CaseSeries",FALSE
+"    31300257","Review",TRUE
+"    31300257","IOPN",FALSE
+"    31300257","IPMN",FALSE
+"    31300257","AJCCTNM",FALSE
+"    31210657","Pancreas",TRUE
+"    31210657","Ampulla",FALSE
+"    31210657","BileDuct",FALSE
+"    31210657","Gallbladder",FALSE
+"    31210657","Neuroendocrine",FALSE
+"    31210657","Morphology",FALSE
+"    31210657","IHC",FALSE
+"    31210657","Molecular",TRUE
+"    31210657","Cytology",FALSE
+"    31210657","Staging",FALSE
+"    31210657","Preneoplastic",FALSE
+"    31210657","Microenvironment",FALSE
+"    31210657","SPN",FALSE
+"    31210657","AnalogueTumors",FALSE
+"    31210657","Pancreattis",TRUE
+"    31210657","Benign",TRUE
+"    31210657","ExperimentalAnimal",FALSE
+"    31210657","TechniquesMethods",FALSE
+"    31210657","Epidemiology",FALSE
+"    31210657","Screening",FALSE
+"    31210657","RiskFactors",TRUE
+"    31210657","SEER",FALSE
+"    31210657","Oncomine",FALSE
+"    31210657","TCGA",FALSE
+"    31210657","CaseReport",FALSE
+"    31210657","CaseSeries",FALSE
+"    31210657","Review",FALSE
+"    31210657","IOPN",FALSE
+"    31210657","IPMN",FALSE
+"    31210657","AJCCTNM",FALSE
+"    30385653","Pancreas",TRUE
+"    30385653","Ampulla",FALSE
+"    30385653","BileDuct",FALSE
+"    30385653","Gallbladder",FALSE
+"    30385653","Neuroendocrine",FALSE
+"    30385653","Morphology",FALSE
+"    30385653","IHC",FALSE
+"    30385653","Molecular",TRUE
+"    30385653","Cytology",FALSE
+"    30385653","Staging",FALSE
+"    30385653","Preneoplastic",TRUE
+"    30385653","Microenvironment",TRUE
+"    30385653","SPN",FALSE
+"    30385653","AnalogueTumors",FALSE
+"    30385653","Pancreattis",FALSE
+"    30385653","Benign",FALSE
+"    30385653","ExperimentalAnimal",FALSE
+"    30385653","TechniquesMethods",TRUE
+"    30385653","Epidemiology",FALSE
+"    30385653","Screening",FALSE
+"    30385653","RiskFactors",FALSE
+"    30385653","SEER",FALSE
+"    30385653","Oncomine",FALSE
+"    30385653","TCGA",FALSE
+"    30385653","CaseReport",FALSE
+"    30385653","CaseSeries",FALSE
+"    30385653","Review",FALSE
+"    30385653","IOPN",FALSE
+"    30385653","IPMN",FALSE
+"    30385653","AJCCTNM",FALSE
+"    31266893","Pancreas",TRUE
+"    31266893","Ampulla",FALSE
+"    31266893","BileDuct",FALSE
+"    31266893","Gallbladder",FALSE
+"    31266893","Neuroendocrine",FALSE
+"    31266893","Morphology",FALSE
+"    31266893","IHC",FALSE
+"    31266893","Molecular",TRUE
+"    31266893","Cytology",FALSE
+"    31266893","Staging",FALSE
+"    31266893","Preneoplastic",FALSE
+"    31266893","Microenvironment",FALSE
+"    31266893","SPN",FALSE
+"    31266893","AnalogueTumors",FALSE
+"    31266893","Pancreattis",FALSE
+"    31266893","Benign",FALSE
+"    31266893","ExperimentalAnimal",FALSE
+"    31266893","TechniquesMethods",FALSE
+"    31266893","Epidemiology",FALSE
+"    31266893","Screening",FALSE
+"    31266893","RiskFactors",TRUE
+"    31266893","SEER",FALSE
+"    31266893","Oncomine",FALSE
+"    31266893","TCGA",FALSE
+"    31266893","CaseReport",FALSE
+"    31266893","CaseSeries",FALSE
+"    31266893","Review",FALSE
+"    31266893","IOPN",FALSE
+"    31266893","IPMN",FALSE
+"    31266893","AJCCTNM",FALSE
+"    31268974","Pancreas",TRUE
+"    31268974","Ampulla",FALSE
+"    31268974","BileDuct",FALSE
+"    31268974","Gallbladder",FALSE
+"    31268974","Neuroendocrine",TRUE
+"    31268974","Morphology",FALSE
+"    31268974","IHC",FALSE
+"    31268974","Molecular",FALSE
+"    31268974","Cytology",FALSE
+"    31268974","Staging",FALSE
+"    31268974","Preneoplastic",FALSE
+"    31268974","Microenvironment",FALSE
+"    31268974","SPN",FALSE
+"    31268974","AnalogueTumors",FALSE
+"    31268974","Pancreattis",FALSE
+"    31268974","Benign",FALSE
+"    31268974","ExperimentalAnimal",FALSE
+"    31268974","TechniquesMethods",FALSE
+"    31268974","Epidemiology",FALSE
+"    31268974","Screening",FALSE
+"    31268974","RiskFactors",FALSE
+"    31268974","SEER",FALSE
+"    31268974","Oncomine",FALSE
+"    31268974","TCGA",FALSE
+"    31268974","CaseReport",FALSE
+"    31268974","CaseSeries",TRUE
+"    31268974","Review",FALSE
+"    31268974","IOPN",FALSE
+"    31268974","IPMN",FALSE
+"    31268974","AJCCTNM",FALSE
+"    31210659","Pancreas",TRUE
+"    31210659","Ampulla",FALSE
+"    31210659","BileDuct",FALSE
+"    31210659","Gallbladder",FALSE
+"    31210659","Neuroendocrine",TRUE
+"    31210659","Morphology",TRUE
+"    31210659","IHC",TRUE
+"    31210659","Molecular",FALSE
+"    31210659","Cytology",FALSE
+"    31210659","Staging",FALSE
+"    31210659","Preneoplastic",FALSE
+"    31210659","Microenvironment",FALSE
+"    31210659","SPN",FALSE
+"    31210659","AnalogueTumors",FALSE
+"    31210659","Pancreattis",FALSE
+"    31210659","Benign",FALSE
+"    31210659","ExperimentalAnimal",FALSE
+"    31210659","TechniquesMethods",FALSE
+"    31210659","Epidemiology",FALSE
+"    31210659","Screening",FALSE
+"    31210659","RiskFactors",FALSE
+"    31210659","SEER",FALSE
+"    31210659","Oncomine",FALSE
+"    31210659","TCGA",FALSE
+"    31210659","CaseReport",FALSE
+"    31210659","CaseSeries",TRUE
+"    31210659","Review",FALSE
+"    31210659","IOPN",FALSE
+"    31210659","IPMN",FALSE
+"    31210659","AJCCTNM",FALSE
+"    31210660","Pancreas",TRUE
+"    31210660","Ampulla",FALSE
+"    31210660","BileDuct",FALSE
+"    31210660","Gallbladder",FALSE
+"    31210660","Neuroendocrine",FALSE
+"    31210660","Morphology",TRUE
+"    31210660","IHC",FALSE
+"    31210660","Molecular",FALSE
+"    31210660","Cytology",FALSE
+"    31210660","Staging",FALSE
+"    31210660","Preneoplastic",FALSE
+"    31210660","Microenvironment",FALSE
+"    31210660","SPN",FALSE
+"    31210660","AnalogueTumors",FALSE
+"    31210660","Pancreattis",TRUE
+"    31210660","Benign",TRUE
+"    31210660","ExperimentalAnimal",FALSE
+"    31210660","TechniquesMethods",FALSE
+"    31210660","Epidemiology",FALSE
+"    31210660","Screening",FALSE
+"    31210660","RiskFactors",FALSE
+"    31210660","SEER",FALSE
+"    31210660","Oncomine",FALSE
+"    31210660","TCGA",FALSE
+"    31210660","CaseReport",FALSE
+"    31210660","CaseSeries",FALSE
+"    31210660","Review",FALSE
+"    31210660","IOPN",FALSE
+"    31210660","IPMN",FALSE
+"    31210660","AJCCTNM",FALSE
+"    31268976","Pancreas",TRUE
+"    31268976","Ampulla",FALSE
+"    31268976","BileDuct",FALSE
+"    31268976","Gallbladder",FALSE
+"    31268976","Neuroendocrine",FALSE
+"    31268976","Morphology",TRUE
+"    31268976","IHC",TRUE
+"    31268976","Molecular",FALSE
+"    31268976","Cytology",FALSE
+"    31268976","Staging",FALSE
+"    31268976","Preneoplastic",FALSE
+"    31268976","Microenvironment",TRUE
+"    31268976","SPN",FALSE
+"    31268976","AnalogueTumors",FALSE
+"    31268976","Pancreattis",FALSE
+"    31268976","Benign",FALSE
+"    31268976","ExperimentalAnimal",FALSE
+"    31268976","TechniquesMethods",FALSE
+"    31268976","Epidemiology",FALSE
+"    31268976","Screening",FALSE
+"    31268976","RiskFactors",FALSE
+"    31268976","SEER",FALSE
+"    31268976","Oncomine",FALSE
+"    31268976","TCGA",FALSE
+"    31268976","CaseReport",FALSE
+"    31268976","CaseSeries",TRUE
+"    31268976","Review",FALSE
+"    31268976","IOPN",FALSE
+"    31268976","IPMN",FALSE
+"    31268976","AJCCTNM",FALSE
+"    31268978","Pancreas",TRUE
+"    31268978","Ampulla",FALSE
+"    31268978","BileDuct",FALSE
+"    31268978","Gallbladder",FALSE
+"    31268978","Neuroendocrine",FALSE
+"    31268978","Morphology",FALSE
+"    31268978","IHC",FALSE
+"    31268978","Molecular",TRUE
+"    31268978","Cytology",FALSE
+"    31268978","Staging",FALSE
+"    31268978","Preneoplastic",FALSE
+"    31268978","Microenvironment",FALSE
+"    31268978","SPN",FALSE
+"    31268978","AnalogueTumors",FALSE
+"    31268978","Pancreattis",FALSE
+"    31268978","Benign",FALSE
+"    31268978","ExperimentalAnimal",TRUE
+"    31268978","TechniquesMethods",FALSE
+"    31268978","Epidemiology",FALSE
+"    31268978","Screening",FALSE
+"    31268978","RiskFactors",FALSE
+"    31268978","SEER",FALSE
+"    31268978","Oncomine",FALSE
+"    31268978","TCGA",FALSE
+"    31268978","CaseReport",FALSE
+"    31268978","CaseSeries",FALSE
+"    31268978","Review",FALSE
+"    31268978","IOPN",FALSE
+"    31268978","IPMN",FALSE
+"    31268978","AJCCTNM",FALSE
+"    30121627","Pancreas",TRUE
+"    30121627","Ampulla",FALSE
+"    30121627","BileDuct",FALSE
+"    30121627","Gallbladder",FALSE
+"    30121627","Neuroendocrine",FALSE
+"    30121627","Morphology",FALSE
+"    30121627","IHC",FALSE
+"    30121627","Molecular",TRUE
+"    30121627","Cytology",FALSE
+"    30121627","Staging",FALSE
+"    30121627","Preneoplastic",FALSE
+"    30121627","Microenvironment",FALSE
+"    30121627","SPN",FALSE
+"    30121627","AnalogueTumors",FALSE
+"    30121627","Pancreattis",FALSE
+"    30121627","Benign",FALSE
+"    30121627","ExperimentalAnimal",TRUE
+"    30121627","TechniquesMethods",TRUE
+"    30121627","Epidemiology",FALSE
+"    30121627","Screening",FALSE
+"    30121627","RiskFactors",FALSE
+"    30121627","SEER",FALSE
+"    30121627","Oncomine",FALSE
+"    30121627","TCGA",FALSE
+"    30121627","CaseReport",FALSE
+"    30121627","CaseSeries",FALSE
+"    30121627","Review",FALSE
+"    30121627","IOPN",FALSE
+"    30121627","IPMN",FALSE
+"    30121627","AJCCTNM",FALSE
+"    30946935","Pancreas",FALSE
+"    30946935","Ampulla",FALSE
+"    30946935","BileDuct",FALSE
+"    30946935","Gallbladder",TRUE
+"    30946935","Neuroendocrine",FALSE
+"    30946935","Morphology",TRUE
+"    30946935","IHC",FALSE
+"    30946935","Molecular",FALSE
+"    30946935","Cytology",FALSE
+"    30946935","Staging",FALSE
+"    30946935","Preneoplastic",FALSE
+"    30946935","Microenvironment",TRUE
+"    30946935","SPN",FALSE
+"    30946935","AnalogueTumors",FALSE
+"    30946935","Pancreattis",FALSE
+"    30946935","Benign",TRUE
+"    30946935","ExperimentalAnimal",FALSE
+"    30946935","TechniquesMethods",FALSE
+"    30946935","Epidemiology",FALSE
+"    30946935","Screening",FALSE
+"    30946935","RiskFactors",FALSE
+"    30946935","SEER",FALSE
+"    30946935","Oncomine",FALSE
+"    30946935","TCGA",FALSE
+"    30946935","CaseReport",FALSE
+"    30946935","CaseSeries",TRUE
+"    30946935","Review",FALSE
+"    30946935","IOPN",FALSE
+"    30946935","IPMN",FALSE
+"    30946935","AJCCTNM",FALSE
+"30929370","Pancreas",FALSE
+"30929370","Ampulla",FALSE
+"30929370","BileDuct",FALSE
+"30929370","Gallbladder",TRUE
+"30929370","Neuroendocrine",FALSE
+"30929370","Morphology",FALSE
+"30929370","IHC",FALSE
+"30929370","Molecular",FALSE
+"30929370","Cytology",FALSE
+"30929370","Staging",TRUE
+"30929370","Preneoplastic",FALSE
+"30929370","Microenvironment",FALSE
+"30929370","SPN",FALSE
+"30929370","AnalogueTumors",FALSE
+"30929370","Pancreattis",FALSE
+"30929370","Benign",FALSE
+"30929370","ExperimentalAnimal",FALSE
+"30929370","TechniquesMethods",FALSE
+"30929370","Epidemiology",FALSE
+"30929370","Screening",FALSE
+"30929370","RiskFactors",FALSE
+"30929370","SEER",FALSE
+"30929370","Oncomine",FALSE
+"30929370","TCGA",FALSE
+"30929370","CaseReport",FALSE
+"30929370","CaseSeries",FALSE
+"30929370","Review",FALSE
+"30929370","IOPN",FALSE
+"30929370","IPMN",FALSE
+"30929370","AJCCTNM",TRUE
+"    30562839","Pancreas",FALSE
+"    30562839","Ampulla",FALSE
+"    30562839","BileDuct",FALSE
+"    30562839","Gallbladder",TRUE
+"    30562839","Neuroendocrine",FALSE
+"    30562839","Morphology",FALSE
+"    30562839","IHC",FALSE
+"    30562839","Molecular",FALSE
+"    30562839","Cytology",FALSE
+"    30562839","Staging",TRUE
+"    30562839","Preneoplastic",FALSE
+"    30562839","Microenvironment",FALSE
+"    30562839","SPN",FALSE
+"    30562839","AnalogueTumors",FALSE
+"    30562839","Pancreattis",FALSE
+"    30562839","Benign",FALSE
+"    30562839","ExperimentalAnimal",FALSE
+"    30562839","TechniquesMethods",FALSE
+"    30562839","Epidemiology",FALSE
+"    30562839","Screening",FALSE
+"    30562839","RiskFactors",FALSE
+"    30562839","SEER",FALSE
+"    30562839","Oncomine",FALSE
+"    30562839","TCGA",FALSE
+"    30562839","CaseReport",FALSE
+"    30562839","CaseSeries",TRUE
+"    30562839","Review",FALSE
+"    30562839","IOPN",FALSE
+"    30562839","IPMN",FALSE
+"    30562839","AJCCTNM",TRUE
+"    30930235","Pancreas",TRUE
+"    30930235","Ampulla",FALSE
+"    30930235","BileDuct",FALSE
+"    30930235","Gallbladder",FALSE
+"    30930235","Neuroendocrine",FALSE
+"    30930235","Morphology",FALSE
+"    30930235","IHC",FALSE
+"    30930235","Molecular",TRUE
+"    30930235","Cytology",FALSE
+"    30930235","Staging",FALSE
+"    30930235","Preneoplastic",FALSE
+"    30930235","Microenvironment",TRUE
+"    30930235","SPN",FALSE
+"    30930235","AnalogueTumors",FALSE
+"    30930235","Pancreattis",FALSE
+"    30930235","Benign",FALSE
+"    30930235","ExperimentalAnimal",TRUE
+"    30930235","TechniquesMethods",FALSE
+"    30930235","Epidemiology",FALSE
+"    30930235","Screening",FALSE
+"    30930235","RiskFactors",FALSE
+"    30930235","SEER",FALSE
+"    30930235","Oncomine",FALSE
+"    30930235","TCGA",FALSE
+"    30930235","CaseReport",FALSE
+"    30930235","CaseSeries",FALSE
+"    30930235","Review",FALSE
+"    30930235","IOPN",FALSE
+"    30930235","IPMN",FALSE
+"    30930235","AJCCTNM",FALSE
+"31276311","Pancreas",FALSE
+"31276311","Ampulla",TRUE
+"31276311","BileDuct",FALSE
+"31276311","Gallbladder",FALSE
+"31276311","Neuroendocrine",FALSE
+"31276311","Morphology",TRUE
+"31276311","IHC",FALSE
+"31276311","Molecular",FALSE
+"31276311","Cytology",TRUE
+"31276311","Staging",FALSE
+"31276311","Preneoplastic",FALSE
+"31276311","Microenvironment",FALSE
+"31276311","SPN",FALSE
+"31276311","AnalogueTumors",FALSE
+"31276311","Pancreattis",FALSE
+"31276311","Benign",FALSE
+"31276311","ExperimentalAnimal",FALSE
+"31276311","TechniquesMethods",FALSE
+"31276311","Epidemiology",FALSE
+"31276311","Screening",FALSE
+"31276311","RiskFactors",FALSE
+"31276311","SEER",FALSE
+"31276311","Oncomine",FALSE
+"31276311","TCGA",FALSE
+"31276311","CaseReport",FALSE
+"31276311","CaseSeries",FALSE
+"31276311","Review",FALSE
+"31276311","IOPN",FALSE
+"31276311","IPMN",FALSE
+"31276311","AJCCTNM",FALSE
+"30811747","Pancreas",TRUE
+"30811747","Ampulla",FALSE
+"30811747","BileDuct",FALSE
+"30811747","Gallbladder",FALSE
+"30811747","Neuroendocrine",FALSE
+"30811747","Morphology",FALSE
+"30811747","IHC",FALSE
+"30811747","Molecular",TRUE
+"30811747","Cytology",FALSE
+"30811747","Staging",FALSE
+"30811747","Preneoplastic",FALSE
+"30811747","Microenvironment",FALSE
+"30811747","SPN",TRUE
+"30811747","AnalogueTumors",FALSE
+"30811747","Pancreattis",FALSE
+"30811747","Benign",FALSE
+"30811747","ExperimentalAnimal",FALSE
+"30811747","TechniquesMethods",FALSE
+"30811747","Epidemiology",FALSE
+"30811747","Screening",FALSE
+"30811747","RiskFactors",FALSE
+"30811747","SEER",FALSE
+"30811747","Oncomine",FALSE
+"30811747","TCGA",FALSE
+"30811747","CaseReport",FALSE
+"30811747","CaseSeries",FALSE
+"30811747","Review",FALSE
+"30811747","IOPN",FALSE
+"30811747","IPMN",FALSE
+"30811747","AJCCTNM",FALSE
+"31268980","Pancreas",TRUE
+"31268980","Ampulla",FALSE
+"31268980","BileDuct",FALSE
+"31268980","Gallbladder",FALSE
+"31268980","Neuroendocrine",TRUE
+"31268980","Morphology",FALSE
+"31268980","IHC",FALSE
+"31268980","Molecular",FALSE
+"31268980","Cytology",FALSE
+"31268980","Staging",TRUE
+"31268980","Preneoplastic",FALSE
+"31268980","Microenvironment",FALSE
+"31268980","SPN",FALSE
+"31268980","AnalogueTumors",FALSE
+"31268980","Pancreattis",FALSE
+"31268980","Benign",FALSE
+"31268980","ExperimentalAnimal",FALSE
+"31268980","TechniquesMethods",FALSE
+"31268980","Epidemiology",FALSE
+"31268980","Screening",FALSE
+"31268980","RiskFactors",FALSE
+"31268980","SEER",FALSE
+"31268980","Oncomine",FALSE
+"31268980","TCGA",FALSE
+"31268980","CaseReport",FALSE
+"31268980","CaseSeries",FALSE
+"31268980","Review",FALSE
+"31268980","IOPN",FALSE
+"31268980","IPMN",FALSE
+"31268980","AJCCTNM",TRUE
+"31235542","Pancreas",TRUE
+"31235542","Ampulla",FALSE
+"31235542","BileDuct",FALSE
+"31235542","Gallbladder",FALSE
+"31235542","Neuroendocrine",FALSE
+"31235542","Morphology",TRUE
+"31235542","IHC",FALSE
+"31235542","Molecular",FALSE
+"31235542","Cytology",TRUE
+"31235542","Staging",FALSE
+"31235542","Preneoplastic",FALSE
+"31235542","Microenvironment",FALSE
+"31235542","SPN",FALSE
+"31235542","AnalogueTumors",FALSE
+"31235542","Pancreattis",FALSE
+"31235542","Benign",TRUE
+"31235542","ExperimentalAnimal",FALSE
+"31235542","TechniquesMethods",FALSE
+"31235542","Epidemiology",FALSE
+"31235542","Screening",FALSE
+"31235542","RiskFactors",FALSE
+"31235542","SEER",FALSE
+"31235542","Oncomine",FALSE
+"31235542","TCGA",FALSE
+"31235542","CaseReport",FALSE
+"31235542","CaseSeries",FALSE
+"31235542","Review",FALSE
+"31235542","IOPN",FALSE
+"31235542","IPMN",FALSE
+"31235542","AJCCTNM",FALSE
+"30658994","Pancreas",TRUE
+"30658994","Ampulla",FALSE
+"30658994","BileDuct",FALSE
+"30658994","Gallbladder",FALSE
+"30658994","Neuroendocrine",FALSE
+"30658994","Morphology",FALSE
+"30658994","IHC",FALSE
+"30658994","Molecular",TRUE
+"30658994","Cytology",FALSE
+"30658994","Staging",FALSE
+"30658994","Preneoplastic",FALSE
+"30658994","Microenvironment",FALSE
+"30658994","SPN",FALSE
+"30658994","AnalogueTumors",FALSE
+"30658994","Pancreattis",FALSE
+"30658994","Benign",FALSE
+"30658994","ExperimentalAnimal",FALSE
+"30658994","TechniquesMethods",TRUE
+"30658994","Epidemiology",FALSE
+"30658994","Screening",FALSE
+"30658994","RiskFactors",FALSE
+"30658994","SEER",FALSE
+"30658994","Oncomine",FALSE
+"30658994","TCGA",FALSE
+"30658994","CaseReport",FALSE
+"30658994","CaseSeries",FALSE
+"30658994","Review",FALSE
+"30658994","IOPN",FALSE
+"30658994","IPMN",FALSE
+"30658994","AJCCTNM",FALSE
+"30912022","Pancreas",TRUE
+"30912022","Ampulla",FALSE
+"30912022","BileDuct",FALSE
+"30912022","Gallbladder",FALSE
+"30912022","Neuroendocrine",FALSE
+"30912022","Morphology",FALSE
+"30912022","IHC",FALSE
+"30912022","Molecular",TRUE
+"30912022","Cytology",FALSE
+"30912022","Staging",FALSE
+"30912022","Preneoplastic",FALSE
+"30912022","Microenvironment",FALSE
+"30912022","SPN",FALSE
+"30912022","AnalogueTumors",FALSE
+"30912022","Pancreattis",FALSE
+"30912022","Benign",FALSE
+"30912022","ExperimentalAnimal",FALSE
+"30912022","TechniquesMethods",TRUE
+"30912022","Epidemiology",FALSE
+"30912022","Screening",FALSE
+"30912022","RiskFactors",FALSE
+"30912022","SEER",FALSE
+"30912022","Oncomine",FALSE
+"30912022","TCGA",FALSE
+"30912022","CaseReport",FALSE
+"30912022","CaseSeries",FALSE
+"30912022","Review",FALSE
+"30912022","IOPN",FALSE
+"30912022","IPMN",FALSE
+"30912022","AJCCTNM",FALSE

@@ -1,0 +1,45 @@
+---
+title: "Journal Watch Turkish Pathology"
+output: html_notebook
+---
+
+```{r}
+# devtools::install_github("DataWookie/feedeR")
+```
+
+```{r}
+feedeR::feed.extract("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1HYeX0emtvYeH07Mqw1L8m5Jh7WRaCuxveqHcC92Y5HdAWBs6R")
+```
+
+
+
+```{r}
+feedeR::feed.extract("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1HYeX0emtvYeH07Mqw1L8m5Jh7WRaCuxveqHcC92Y5HdAWBs6R")
+```
+
+```{r}
+# devtools::install_github("robertmyles/tidyrss")
+```
+
+```{r}
+library(tidyRSS)
+
+tidyfeed("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1HYeX0emtvYeH07Mqw1L8m5Jh7WRaCuxveqHcC92Y5HdAWBs6R")
+```
+
+
+
+```{r}
+library(XML)
+doc<-xmlTreeParse("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1HYeX0emtvYeH07Mqw1L8m5Jh7WRaCuxveqHcC92Y5HdAWBs6R")
+```
+
+
+```
+(Turkey[Affiliation] OR Turkiye[Affiliation]) AND ((pathology[Affiliation] OR patoloji[Affiliation]) NOT (speach[Affiliation] OR speech[Affiliation]))
+```
+
+
+
+
+
